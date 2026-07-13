@@ -10,7 +10,7 @@ hierarchical Bayesian methods are well-suited to analyzing such “messy” data
 day workshop will provide an overview of Bayesian and hierarchical Bayesian modeling
 at a relatively introductory level, including basic probability, model building, and
 numerical implementation (MCMC) concepts. We will provide a Jags (Bayesian software
-package) demonstration using the jagsUI package in R; participants must be familiar with
+package) demonstration using the rjags package in R; participants must be familiar with
 the R programming language. During the afternoon, participants will have the
 opportunity to develop and implement a Bayesian model based on a selection of
 ecological problems and data that will be provided. Participants are expected to leave
