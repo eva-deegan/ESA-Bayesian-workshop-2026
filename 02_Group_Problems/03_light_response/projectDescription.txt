@@ -1,0 +1,1 @@
+Non-linear regression describing photosynthesis vs light level (“light response” curve) with coefficients that vary by leaf (or curve), and which are assigned hierarchical priors. Only do option 1 (normal hierarchical priors for “transformed” coefficients.)

@@ -1,0 +1,1 @@
+Multinomial GLM applied to tree-level hurricane damage data (3 levels of damage). Damage probabilities vary by species (4 species) and post-hurricane survival status (2 levels; dead or live)

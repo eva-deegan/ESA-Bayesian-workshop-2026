@@ -1,0 +1,3 @@
+Hierarchical linear regression using Emily’s ‘vegetation water-use data.’ ET is regressed on MAT and MAP, with quadratic effects and 2-way interaction. Effects vary by vegetation community type and are assigned hierarchical priors. (Don’t include the “predictions” code.)
+
+ Expands upon Hmwk 5 regression model to include random effects for method (4 levels) and study (49 studies); involve post-sweeping and/or sum-to-zero constraints for random effects.
