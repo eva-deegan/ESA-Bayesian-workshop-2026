@@ -26,7 +26,7 @@ with the topic.
 
 [Emily Palmquist](mailto:epalmquist@usgs.gov), U.S. Geological Survey, Grand Canyon Monitoring and Research Center, Flagstaff, AZ
 
-[Jessica Guo](mailto:jessicaguo@g.hmc.edu), 3 Department of Biology, Harvey Mudd College, Claremont, CA
+[Jessica Guo](mailto:jessicaguo@g.hmc.edu), Department of Biology, Harvey Mudd College, Claremont, CA
 
 [Eva Deegan](mailto:esd96@nau.edu), Northen Arizona University, School of Informatics, Computing & Cyber Systems, Flagstaff, AZ
 
