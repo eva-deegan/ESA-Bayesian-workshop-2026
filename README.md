@@ -40,7 +40,7 @@ Software requirements include [JAGS](https://sourceforge.net/projects/mcmc-jags/
 ### Schedule
 | Time  | Topic/activity   |  Instructor	 |
 |---|---| ---|
-| 9:00 - 9:10  | Introductions and workshop overview; Motivating issues (challenges of analyzing ecological datal; relevance and advantages of using a Bayesian approach) | Emily |
+| 9:00 - 9:10  | Introductions and workshop overview; Motivating issues (challenges of analyzing ecological data; relevance and advantages of using a Bayesian approach) | Emily |
 | 9:10 - 9:40 | Introduction of conceptual ideas (e.g., bringing together diverse data, potentially multiple models, and use of graphical models to facilitate the analysis/model; very light on equations) and motivating example | Emily | 
 | 9:40 - 10:10  | Probability, Bayes' rule, distributions, and "basic" Bayes | Jessica |
 | 10:10 - 10:50  | Introduction to hierarchical Bayesian modeling | Kiona |
