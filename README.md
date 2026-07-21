@@ -40,17 +40,17 @@ Software requirements include [JAGS](https://sourceforge.net/projects/mcmc-jags/
 ### Schedule
 | Time  | Topic/activity   |  Instructor	 |
 |---|---| ---|
-| 9:00 - 9:10  | Introductions and workshop overview; Motivating issues (challenges of analyzing ecological data; relevance and advantages of using a Bayesian approach) | Emily |
-| 9:10 - 9:40 | Introduction of conceptual ideas (e.g., bringing together diverse data, potentially multiple models, and use of graphical models to facilitate the analysis/model; very light on equations) and motivating example | Emily | 
-| 9:40 - 10:10  | Probability, Bayes' rule, distributions, and "basic" Bayes | Jessica |
+| 9:00 - 9:10  | Introductions and workshop overview; Motivating issues (challenges of analyzing ecological data; relevance and advantages of using a Bayesian approach) | |
+| 9:10 - 9:30 | Introduction of conceptual ideas (e.g., bringing together diverse data, potentially multiple models, and use of graphical models to facilitate the analysis/model; very light on equations) and motivating example | Emily | 
+| 9:30 - 10:10  | Probability, Bayes' rule, distributions, and "basic" Bayes | Jessica |
 | 10:10 - 10:50  | Introduction to hierarchical Bayesian modeling | Kiona |
 | 10:50 - 11:00  | BREAK  | |
 | 11:00 - 12:00  | Continuation of hierarchical Bayesian modeling  | Kiona |
 | 12:00 - 1:00  | LUNCH | |
-| 1:00 - 2:30 | JAGS demonstration of basic Bayesian problem; code, implementation, convergence, mixing, posterior stats.  | Alicia |
-| 2:30 - 2:45  | Brief overview of datasets/problems for group projects | Alicia |
-| 2:45 - 3:50  | Working groups (form groups of 4-5 participants each, work through chosen project)  | All |
-| 3:50 - 4:00  | Closing remarks and where to go from here: further resources, software options, and future possibilities  | Kiona |
+| 1:00 - 2:10 | JAGS demonstration of basic Bayesian problem; code, implementation, convergence, mixing, posterior stats.  | Alicia |
+| 2:10 - 2:20  | Brief overview of datasets/problems for group projects | Alicia |
+| 2:20 - 3:50  | Working groups (form groups of 4-5 participants each, work through chosen project)  | All |
+| 3:50 - 4:00  | Closing remarks and where to go from here: further resources, software options, and future possibilities  | |
 
 
 
