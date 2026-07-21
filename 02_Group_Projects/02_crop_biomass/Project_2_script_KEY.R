@@ -1,6 +1,6 @@
 #Project 2 script - SOLUTION: Crop production example
 rm(list=ls())
-setwd("C:/Users/esd96/OneDrive - Northern Arizona University/professional development/ESA_2026/ESA-Bayesian-workshop-2026/02_Group_Problems/02_crop_biomass/")
+setwd(XXX)
 library(rjags)
 library(ggplot2)
 library(MCMCvis)
