@@ -1,1 +1,0 @@
-Very simple normal model applied to estimate treatment-level means for crop biomass under 2 different fertilization treatments
