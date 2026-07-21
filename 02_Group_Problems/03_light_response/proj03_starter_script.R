@@ -8,7 +8,7 @@ load.module('dic')
 library(MCMCvis)
 
 # Read in data
-photo <- read_csv("02_Group_Problems/03_light_response/Photosynthesis_light_data.csv")
+photo <- read_csv("02_Group_Projects/03_light_response/Photosynthesis_light_data.csv")
 
 # Check structure
 str(photo)
@@ -104,7 +104,7 @@ coda1 <- coda.samples()
 MCMCtrace(window(coda1, thin = 10),
           excl = "An.rep", 
           iter = niter, 
-          file = "02_Group_Problems/03_light_response/plots_mod1.pdf")
+          file = "02_Group_Projects/03_light_response/plots_mod1.pdf")
 
 # Compute posterior summary statistics for parameters of interest and replicated data
 out1 <- MCMCsummary(window(coda1, 
@@ -208,7 +208,7 @@ coda2 <- coda.samples()
 MCMCtrace(window(coda2,thin=5),
           excl = "An.rep",
           iter = niter, type = "trace", 
-          file = "02_Group_Problems/03_light_response/plots_mod2.pdf")
+          file = "02_Group_Projects/03_light_response/plots_mod2.pdf")
 
 # Compute posterior summary statistics for parameters of interest and replicated data
 out2 <- MCMCsummary(window(coda2, 

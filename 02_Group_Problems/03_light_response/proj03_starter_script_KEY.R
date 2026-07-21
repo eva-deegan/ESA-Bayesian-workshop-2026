@@ -8,7 +8,7 @@ load.module('dic')
 library(MCMCvis)
 
 # Read in data
-photo <- read_csv("02_Group_Problems/03_light_response/Photosynthesis_light_data.csv")
+photo <- read_csv("02_Group_Projects/03_light_response/Photosynthesis_light_data.csv")
 
 # Check structure
 str(photo)
@@ -107,7 +107,7 @@ initslist <- list(
 
 ##### Run Model 1 ####
 # Compile model
-jm1 <- jags.model("02_Group_Problems/03_light_response/proj03_mod1.JAGS",
+jm1 <- jags.model("02_Group_Projects/03_light_response/proj03_mod1.JAGS",
                   data = datlist,
                   inits = initslist,
                   n.chains = 3)
@@ -127,7 +127,7 @@ coda1 <- coda.samples(jm1,
 MCMCtrace(window(coda1, thin = 10),
           excl = "An.rep", 
           iter = niter, 
-          file = "02_Group_Problems/03_light_response/plots_mod1.pdf")
+          file = "02_Group_Projects/03_light_response/plots_mod1.pdf")
 
 # Compute posterior summary statistics for parameters of interest and replicated data
 out1 <- MCMCsummary(window(coda1, 
@@ -220,7 +220,7 @@ initslist2 <- list(
 
 ##### Run Model 2 #####
 # Compile model
-jm2 <- jags.model("02_Group_Problems/03_light_response/proj03_mod2.JAGS",
+jm2 <- jags.model("02_Group_Projects/03_light_response/proj03_mod2.JAGS",
                  data = datlist,
                  inits = initslist2,
                  n.chains = 3)
@@ -240,7 +240,7 @@ coda2 <- coda.samples(jm2,
 MCMCtrace(window(coda2,thin=5),
           excl = "An.rep",
           iter = niter, type = "trace", 
-          file = "02_Group_Problems/03_light_response/plots_mod2.pdf")
+          file = "02_Group_Projects/03_light_response/plots_mod2.pdf")
 
 # Compute posterior summary statistics for parameters of interest and replicated data
 out2 <- MCMCsummary(window(coda2, 
