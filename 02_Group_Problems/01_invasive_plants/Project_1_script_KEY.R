@@ -1,7 +1,7 @@
 #Project 1 script - SOLUTION: Poisson-snowfence example
 
 rm(list=ls())
-setwd("C:/Users/esd96/OneDrive - Northern Arizona University/professional development/ESA_2026/ESA-Bayesian-workshop-2026/02_Group_Problems/01_invasive_plants/")
+setwd(XXX)
 library(rjags)
 library(ggplot2)
 library(MCMCvis)

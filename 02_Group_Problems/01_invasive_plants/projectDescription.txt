@@ -1,1 +1,0 @@
- Very simply Poisson model (# invasive plants occurring in snow fence footprints); could be adapted to include a hierarchical prior (as per Lab 07 for the “pump failure rate” data).

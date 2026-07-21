@@ -56,7 +56,7 @@ n.adapt=2000
 jm1 <- jags.model(mod.v1, n.chains=3,data=dat1,inits=inits1,n.adapt=n.adapt)
 
 # 2e: set iterations and update model with coda.samples:
-n.iter=10000
+n.iter=5000
 coda1 = coda.samples(jm1,variable.names=XXX,
                      n.iter=n.iter)
 
@@ -101,7 +101,7 @@ mod.v2 = textConnection(text.v2)
 jm2 <- jags.model(mod.v2, n.chains=3, data=dat2,inits=inits1,n.adapt=n.adapt)
 
 # 3e: Update with coda.samples: 
-n.iter=10000
+n.iter=5000
 coda2 = coda.samples(jm2,variable.names=XXX,
                      n.iter=n.iter)
 
