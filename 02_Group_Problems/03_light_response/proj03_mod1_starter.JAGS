@@ -5,11 +5,11 @@ model{
     
     # Nonlinear mean model for net photosynthesis modeled via a rectangular 
     # hyperbola with curve-specific parameters:
-    mu[i] = (mu.num[i]/mu.den[i]) - theta[3,C[i]]
+    
     # Numerator of function:
-    mu.num[i] = theta[1,C[i]]*PAR[i]*theta[2,C[i]]
+    
     # Denominator of function:
-    mu.den[i] = theta[1,C[i]]*PAR[i] + theta[2,C[i]]
+    
     
     # Generate replicated data to evaluate model fit
     An.rep[i] ~ dnorm(mu[i], tau)
@@ -25,9 +25,9 @@ model{
   for(c in 1:Ncurve){
     for(k in 1:Nparam){
       # Hierarchical prior for log-scale parameters:
-      log.theta[k,c] ~ dnorm(mu.log[k,Sp[c],CC[c]], tau.log[k])
+     
       # Back-transform to original parameter scale:
-      theta[k,c] = exp(log.theta[k,c])
+
     }
   }
   
@@ -35,33 +35,33 @@ model{
   # E(theta) and SD(theta)
   for(k in 1:Nparam){
     # Prior for among-curve precision:
-    tau.log[k] ~ dgamma(0.1, 0.1)
+
     # Compute standard deviations:
-    sig.log[k] = 1/sqrt(tau.log[k])
+
     for(s in 1:Nspp){
       for(c in 1:Ncan){
         # Vague prior for log-scale mean:
-        mu.log[k,s,c] ~ dnorm(0,0.001)
+
         # Back-transform to original scale:
-        mu.theta[k,s,c] = exp(mu.log[k,s,c])
+
       }
     }
   }
   
   # Relatively non-informative prior for precision in likelihood:
-  tau ~ dgamma(0.01, 0.01)
+
   # Compute standard deviation:
-  sig = 1/sqrt(tau)
+
   
   # Pairwise difference calculations
   for(k in 1:Nparam){
     for(s in 1:Nspp){
       # Gap - shade
-      mu.diff.spp[k,s] = mu.theta[k,s,1] - mu.theta[k,s,2]
+
     }
     for(c in 1:Ncan){
       # Maple - oak
-      mu.diff.can[k,c] = mu.theta[k,1,c] - mu.theta[k,2,c]
+
     }
   }
 }
