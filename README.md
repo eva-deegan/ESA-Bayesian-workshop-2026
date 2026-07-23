@@ -1,4 +1,3 @@
-# NOT FINAL VERSION
 # FINAL DOCUMENTS WILL BE AVAILABLE 7/24/26
 
 ***TO DOWNLOAD THIS REPOSITORY - click the green code button on this page and "Download ZIP"***
@@ -45,11 +44,11 @@ Software requirements include [JAGS](https://sourceforge.net/projects/mcmc-jags/
 | Time  | Topic/activity   |  Instructor	 |
 |---|---| ---|
 | 9:00 - 9:10  | Introductions and workshop overview; Motivating issues (challenges of analyzing ecological data; relevance and advantages of using a Bayesian approach) | |
-| 9:10 - 9:30 | Introduction of conceptual ideas (e.g., bringing together diverse data, potentially multiple models, and use of graphical models to facilitate the analysis/model; very light on equations) and motivating example | Emily | 
-| 9:30 - 10:10  | Probability, Bayes' rule, distributions, and "basic" Bayes | Jessica |
-| 10:10 - 10:50  | Introduction to hierarchical Bayesian modeling | Kiona |
+| 9:10 - 9:30 | [Introduction of conceptual ideas](03_Lecture_Materials/Why%20use%20Bayesian%20modeling%20in%20ecology.pdf) (e.g., bringing together diverse data, potentially multiple models, and use of graphical models to facilitate the analysis/model; very light on equations) and motivating example | Emily | 
+| 9:30 - 10:10  | [Probability, Bayes' rule, distributions, and "basic" Bayes](03_Lecture_Materials/Intro%20to%20Bayesian%20modeling.pdf) | Jessica |
+| 10:10 - 10:50  | [Introduction to hierarchical Bayesian modeling](03_Lecture_Materials/HBintro_Ogle_ESA2026.pdf) | Kiona |
 | 10:50 - 11:00  | BREAK  | |
-| 11:00 - 12:00  | Continuation of hierarchical Bayesian modeling  | Kiona |
+| 11:00 - 12:00  | [Continuation of hierarchical Bayesian modeling](03_Lecture_Materials/HBintro_Ogle_ESA2026.pdf)  | Kiona |
 | 12:00 - 1:00  | LUNCH | |
 | 1:00 - 2:10 | JAGS demonstration of basic Bayesian problem; code, implementation, convergence, mixing, posterior stats.  | Alicia |
 | 2:10 - 2:20  | Brief overview of datasets/problems for group projects | Alicia |
