@@ -37,7 +37,7 @@ with the topic.
 [Alicia Formanack](mailto:amf258@nau.edu), Northen Arizona University, School of Informatics, Computing & Cyber Systems, Flagstaff, AZ
 
 ### Pre-workshop instructions
-Software requirements include [JAGS](https://sourceforge.net/projects/mcmc-jags/) and [R](https://www.r-project.org)/[RStudio](https://www.rstudio.com/products/rstudio/download/). Required R packages include 'rjags', 'coda', 'ggplot2', and 'mcmcplots'. 
+Software requirements include [JAGS](https://sourceforge.net/projects/mcmc-jags/) and [R](https://www.r-project.org)/[RStudio](https://www.rstudio.com/products/rstudio/download/). Required R packages include 'rjags', 'tidyverse', and 'MCMCvis'. 
 
 
 

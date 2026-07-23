@@ -20,28 +20,30 @@ model{
   var.res = 1/tau
   R2 = var.pred/(var.pred+var.res)
   
-  # Hierarchical gamma priors for curve-level parameters, conditional on species
-  # and canopy condition:
+  # Hierarchical normal priors for curve-level log-scale parameters, conditional 
+  # on species and canopy type condition:
   for(c in 1:Ncurve){
     for(k in 1:Nparam){
-      theta[k,c] ~ dgamma(alpha[k,Sp[c],CC[c]], beta[k,Sp[c],CC[c]])
+      # Hierarchical prior for log-scale parameters:
+      log.theta[k,c] ~ dnorm(mu.log[k,Sp[c],CC[c]], tau.log[k])
+      # Back-transform to original parameter scale:
+      theta[k,c] = exp(log.theta[k,c])
     }
   }
   
-  # Relatively non-informative priors for population-level, 
+  # Relatively non-informative priors for population-level parameters, 
   # E(theta) and SD(theta)
   for(k in 1:Nparam){
-    # Standard deviation term, varies by parameter type, but assume shared
-    # across species and canopy type:
-    S[k] ~ dunif(0,10000)
+    # Prior for among-curve precision:
+    tau.log[k] ~ dgamma(0.1, 0.1)
+    # Compute standard deviations:
+    sig.log[k] = 1/sqrt(tau.log[k])
     for(s in 1:Nspp){
       for(c in 1:Ncan){
-        # Population-level expected value for each parameter type, varies by
-        # species and canopy type:
-        E[k,s,c] ~ dunif(0,10000)
-        # Compute alpha and beta in the hierarchical gamma prior
-        alpha[k,s,c] = pow(E[k,s,c]/S[k],2)
-        beta[k,s,c] = E[k,s,c]/pow(S[k],2)
+        # Vague prior for log-scale mean:
+        mu.log[k,s,c] ~ dnorm(0,0.001)
+        # Back-transform to original scale:
+        mu.theta[k,s,c] = exp(mu.log[k,s,c])
       }
     }
   }
@@ -54,12 +56,12 @@ model{
   # Pairwise difference calculations
   for(k in 1:Nparam){
     for(s in 1:Nspp){
-      # Gap - shade
-      mu.diff.spp[k,s] = E[k,s,1] - E[k,s,2]
+       # Gap - shade
+       mu.diff.can[k,s] = mu.theta[k,s,1] - mu.theta[k,s,2]
     }
     for(c in 1:Ncan){
       # Maple - oak
-      mu.diff.can[k,c] = E[k,1,c] - E[k,2,c]
+      mu.diff.spp[k,c] = mu.theta[k,1,c] - mu.theta[k,2,c]
     }
   }
 }
