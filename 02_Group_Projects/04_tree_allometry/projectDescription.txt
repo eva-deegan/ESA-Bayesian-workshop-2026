@@ -1,1 +1,0 @@
-Non-linear regression for tree allometry (tree height vs radius) that accounts for “measurement errors” (i.e., errors in both the response [height] and predictor [radius] variable) using repeat measurements of trunk radii. 

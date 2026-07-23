@@ -1,0 +1,1161 @@
+order,ValueYear,MethodGroup,VegetationGroup,Annual_ET,MAT,MAP,VegID,MetID,StudyID
+1330,2011,MODIS,desert scrub,7,12.65,162,2,3,36
+1288,2008,MODIS,desert scrub,20,12.65,162,2,3,36
+1177,2000,MODIS,desert scrub,21,12.65,162,2,3,36
+1204,2002,MODIS,desert scrub,22,12.65,162,2,3,36
+1231,2004,MODIS,desert scrub,28,12.65,162,2,3,36
+1334,2011,MODIS,desert scrub,31,12.78,160,2,3,36
+1260,2006,MODIS,desert scrub,37,12.65,162,2,3,36
+989,2008,Landsat,tamarisk biocontrol,38,11.86,258,6,2,24
+1208,2002,MODIS,desert scrub,40,12.78,160,2,3,36
+1181,2000,MODIS,desert scrub,41,12.72,160,2,3,36
+1274,2007,MODIS,desert scrub,42,12.65,162,2,3,36
+1332,2011,MODIS,desert scrub,53,12.73,160,2,3,36
+1333,2011,MODIS,desert scrub,53,12.59,163,2,3,36
+1316,2010,MODIS,desert scrub,54,12.65,162,2,3,36
+1236,2004,MODIS,desert scrub,57,12.78,160,2,3,36
+1302,2009,MODIS,desert scrub,57,12.65,162,2,3,36
+1342,2012,MODIS,desert scrub,58,12.65,162,2,3,36
+1329,2011,MODIS,desert scrub,60,12.54,164,2,3,36
+1217,2003,MODIS,desert scrub,63,12.65,162,2,3,36
+1328,2011,MODIS,desert scrub,63,12.54,164,2,3,36
+1235,2004,MODIS,desert scrub,65,12.72,160,2,3,36
+1246,2005,MODIS,desert scrub,65,12.65,162,2,3,36
+1292,2008,MODIS,desert scrub,65,12.78,160,2,3,36
+1336,2011,MODIS,desert scrub,65,12.98,156,2,3,36
+1210,2002,MODIS,desert scrub,66,12.98,156,2,3,36
+1182,2000,MODIS,desert scrub,67,12.78,160,2,3,36
+1200,2002,MODIS,desert scrub,68,13.19,152,2,3,36
+1191,2001,MODIS,desert scrub,70,12.65,162,2,3,36
+1306,2009,MODIS,desert scrub,73,12.78,160,2,3,36
+1326,2011,MODIS,desert scrub,73,13.19,152,2,3,36
+1335,2011,MODIS,desert scrub,73,12.83,160,2,3,36
+1404,2002,MODIS,desert scrub,73,12.57,197,2,3,42
+1206,2002,MODIS,desert scrub,74,12.73,160,2,3,36
+1264,2006,MODIS,desert scrub,76,12.78,160,2,3,36
+1327,2011,MODIS,desert scrub,76,12.22,174,2,3,36
+1209,2002,MODIS,desert scrub,80,12.83,160,2,3,36
+1233,2004,MODIS,desert scrub,80,12.73,160,2,3,36
+1221,2003,MODIS,desert scrub,82,12.72,160,2,3,36
+1202,2002,MODIS,desert scrub,84,12.54,164,2,3,36
+1207,2002,MODIS,desert scrub,84,12.59,163,2,3,36
+1298,2009,MODIS,desert scrub,84,13.19,152,2,3,36
+1331,2011,MODIS,desert scrub,84,12.25,173,2,3,36
+1230,2004,MODIS,desert scrub,87,12.54,164,2,3,36
+1234,2004,MODIS,desert scrub,87,12.59,163,2,3,36
+1287,2008,MODIS,desert scrub,87,12.54,164,2,3,36
+1290,2008,MODIS,desert scrub,87,12.73,160,2,3,36
+1201,2002,MODIS,desert scrub,88,12.22,174,2,3,36
+1254,2006,Landsat,desert scrub,88,12.72,160,2,2,36
+1229,2004,MODIS,desert scrub,89,12.54,164,2,3,36
+1406,2004,MODIS,desert scrub,89,12.57,197,2,3,42
+1227,2004,MODIS,desert scrub,90,13.19,152,2,3,36
+1203,2002,MODIS,desert scrub,92,12.54,164,2,3,36
+1238,2004,MODIS,desert scrub,93,12.98,156,2,3,36
+1211,2002,MODIS,desert scrub,94,13.2,151,2,3,36
+1222,2003,MODIS,desert scrub,95,12.78,160,2,3,36
+1196,2001,MODIS,desert scrub,96,12.78,160,2,3,36
+1403,2001,MODIS,desert scrub,96,12.57,197,2,3,42
+1195,2001,MODIS,desert scrub,97,12.72,160,2,3,36
+1304,2009,MODIS,desert scrub,99,12.73,160,2,3,36
+1286,2008,MODIS,desert scrub,100,12.54,164,2,3,36
+1232,2004,MODIS,desert scrub,101,12.25,173,2,3,36
+1213,2003,MODIS,desert scrub,102,13.19,152,2,3,36
+1282,2008,Landsat,desert scrub,102,12.72,160,2,2,36
+1173,2000,MODIS,desert scrub,103,13.19,152,2,3,36
+1256,2006,MODIS,desert scrub,103,13.19,152,2,3,36
+1278,2007,MODIS,desert scrub,103,12.78,160,2,3,36
+1408,2006,MODIS,desert scrub,103,12.57,197,2,3,42
+1179,2000,MODIS,desert scrub,105,12.73,160,2,3,36
+1228,2004,MODIS,desert scrub,105,12.22,174,2,3,36
+1237,2004,MODIS,desert scrub,106,12.83,160,2,3,36
+1308,2009,MODIS,desert scrub,106,12.98,156,2,3,36
+1180,2000,MODIS,desert scrub,108,12.59,163,2,3,36
+1015,2004-2010,MODIS,tamarisk biocontrol,109,12.09,127,6,3,24
+1174,2000,MODIS,desert scrub,109,12.22,174,2,3,36
+458,2013,Landsat,tamarisk healthy,109.4383,21.77,69,7,2,13
+1205,2002,MODIS,desert scrub,110,12.25,173,2,3,36
+1337,2011,MODIS,desert scrub,110,13.2,151,2,3,36
+1291,2008,MODIS,desert scrub,111,12.59,163,2,3,36
+1307,2009,MODIS,desert scrub,112,12.83,160,2,3,36
+1285,2008,MODIS,desert scrub,113,12.22,174,2,3,36
+976,2005,Landsat,tamarisk healthy,114,11.86,258,7,2,24
+1176,2000,MODIS,desert scrub,114,12.54,164,2,3,36
+1240,2005,Landsat,desert scrub,114,12.72,160,2,2,36
+1320,2010,MODIS,desert scrub,114,12.78,160,2,3,36
+1184,2000,MODIS,desert scrub,116,12.98,156,2,3,36
+1175,2000,MODIS,desert scrub,118,12.54,164,2,3,36
+1300,2009,MODIS,desert scrub,118,12.54,164,2,3,36
+1250,2005,MODIS,desert scrub,119,12.78,160,2,3,36
+1346,2012,MODIS,desert scrub,119,12.78,160,2,3,36
+1338,2012,MODIS,desert scrub,120,13.19,152,2,3,36
+1401,2002-2006,flux tower,desert scrub,120,17.56,105,2,1,41
+1224,2003,MODIS,desert scrub,121,12.98,156,2,3,36
+1301,2009,MODIS,desert scrub,123,12.54,164,2,3,36
+1305,2009,MODIS,desert scrub,123,12.59,163,2,3,36
+1402,2000,MODIS,desert scrub,123,12.57,197,2,3,42
+1324,2011,Landsat,desert scrub,124,12.72,160,2,2,36
+1225,2003,MODIS,desert scrub,125,13.2,151,2,3,36
+1239,2004,MODIS,desert scrub,125,13.2,151,2,3,36
+1268,2007,Landsat,desert scrub,125,12.72,160,2,2,36
+1405,2003,MODIS,desert scrub,125,12.57,197,2,3,42
+1266,2006,MODIS,desert scrub,127,12.98,156,2,3,36
+1418,"2004, 2007-2012",MODIS,desert scrub,128,16.99,365,2,3,43
+1339,2012,MODIS,desert scrub,129,12.22,174,2,3,36
+1424,2004-2012,MODIS,mesquite bosque,129,18.61,451,3,3,43
+1294,2008,MODIS,desert scrub,130,12.98,156,2,3,36
+1183,2000,MODIS,desert scrub,131,12.83,160,2,3,36
+1289,2008,MODIS,desert scrub,131,12.25,173,2,3,36
+1299,2009,MODIS,desert scrub,131,12.22,174,2,3,36
+1303,2009,MODIS,desert scrub,131,12.25,173,2,3,36
+1348,2012,MODIS,desert scrub,131,12.98,156,2,3,36
+1185,2000,MODIS,desert scrub,132,13.2,151,2,3,36
+1267,2006,MODIS,desert scrub,132,13.2,151,2,3,36
+1344,2012,MODIS,desert scrub,132,12.73,160,2,3,36
+456,2013,Landsat,riparian shrub,132.6964,22.38,78,4,2,13
+1284,2008,MODIS,desert scrub,136,13.19,152,2,3,36
+1178,2000,MODIS,desert scrub,138,12.25,173,2,3,36
+1219,2003,MODIS,desert scrub,139,12.73,160,2,3,36
+1262,2006,MODIS,desert scrub,141,12.73,160,2,3,36
+1223,2003,MODIS,desert scrub,142,12.83,160,2,3,36
+1270,2007,MODIS,desert scrub,142,13.19,152,2,3,36
+1296,2009,Landsat,desert scrub,142,12.72,160,2,2,36
+1309,2009,MODIS,desert scrub,142,13.2,151,2,3,36
+1187,2001,MODIS,desert scrub,144,13.19,152,2,3,36
+1193,2001,MODIS,desert scrub,145,12.73,160,2,3,36
+1257,2006,MODIS,desert scrub,145,12.22,174,2,3,36
+641,2005-2015,Landsat,tamarisk biocontrol,146,11.57,244,6,2,18
+1343,2012,MODIS,desert scrub,146,12.25,173,2,3,36
+1415,2008,flux tower,desert scrub,147,19.1,398,2,1,43
+1259,2006,MODIS,desert scrub,148,12.54,164,2,3,36
+1188,2001,MODIS,desert scrub,149,12.22,174,2,3,36
+1198,2001,MODIS,desert scrub,149,12.98,156,2,3,36
+1261,2006,MODIS,desert scrub,149,12.25,173,2,3,36
+1315,2010,MODIS,desert scrub,151,12.54,164,2,3,36
+1340,2012,MODIS,desert scrub,151,12.54,164,2,3,36
+1242,2005,MODIS,desert scrub,152,13.19,152,2,3,36
+1313,2010,MODIS,desert scrub,152,12.22,174,2,3,36
+1273,2007,MODIS,desert scrub,153,12.54,164,2,3,36
+465,2014,Landsat,tamarisk healthy,153.8052,21.77,69,7,2,13
+1416,2008,MODIS,desert scrub,155,19.1,398,2,3,43
+1113,2013,MODIS,mesquite bosque,156,17.67,347,3,3,29
+1349,2012,MODIS,desert scrub,157,13.2,151,2,3,36
+1258,2006,MODIS,desert scrub,158,12.54,164,2,3,36
+1341,2012,MODIS,desert scrub,159,12.54,164,2,3,36
+1409,2007,MODIS,desert scrub,159,12.57,197,2,3,42
+1220,2003,MODIS,desert scrub,160,12.59,163,2,3,36
+1194,2001,MODIS,desert scrub,161,12.59,163,2,3,36
+1248,2005,MODIS,desert scrub,161,12.73,160,2,3,36
+1263,2006,MODIS,desert scrub,161,12.59,163,2,3,36
+1314,2010,MODIS,desert scrub,162,12.54,164,2,3,36
+629,2000-2004,Landsat,tamarisk healthy,163,11.57,244,7,2,18
+1272,2007,MODIS,desert scrub,163,12.54,164,2,3,36
+1407,2005,MODIS,desert scrub,163,12.57,197,2,3,42
+1199,2001,MODIS,desert scrub,164,13.2,151,2,3,36
+1265,2006,MODIS,desert scrub,164,12.83,160,2,3,36
+1271,2007,MODIS,desert scrub,164,12.22,174,2,3,36
+1276,2007,MODIS,desert scrub,164,12.73,160,2,3,36
+454,2013,Landsat,cottonwood willow,165.7071,20.96,67,1,2,13
+1277,2007,MODIS,desert scrub,166,12.59,163,2,3,36
+1197,2001,MODIS,desert scrub,167,12.83,160,2,3,36
+1214,2003,MODIS,desert scrub,168,12.22,174,2,3,36
+1010,2000-2003,MODIS,tamarisk healthy,169,12.09,127,7,3,24
+1295,2008,MODIS,desert scrub,169,13.2,151,2,3,36
+1190,2001,MODIS,desert scrub,171,12.54,164,2,3,36
+1189,2001,MODIS,desert scrub,172,12.54,164,2,3,36
+1317,2010,MODIS,desert scrub,172,12.25,173,2,3,36
+1215,2003,MODIS,desert scrub,173,12.54,164,2,3,36
+1216,2003,MODIS,desert scrub,173,12.54,164,2,3,36
+1252,2005,MODIS,desert scrub,173,12.98,156,2,3,36
+1249,2005,MODIS,desert scrub,174,12.59,163,2,3,36
+1280,2007,MODIS,desert scrub,174,12.98,156,2,3,36
+1318,2010,MODIS,desert scrub,177,12.73,160,2,3,36
+648,2007-2015,MODIS,tamarisk biocontrol,178,14.92,150,6,3,18
+1245,2005,MODIS,desert scrub,178,12.54,164,2,3,36
+1275,2007,MODIS,desert scrub,179,12.25,173,2,3,36
+1243,2005,MODIS,desert scrub,180,12.22,174,2,3,36
+1281,2007,MODIS,desert scrub,180,13.2,151,2,3,36
+959,2002,Landsat,tamarisk healthy,182,11.86,258,7,2,24
+1312,2010,MODIS,desert scrub,182,13.19,152,2,3,36
+1322,2010,MODIS,desert scrub,182,12.98,156,2,3,36
+1345,2012,MODIS,desert scrub,184,12.59,163,2,3,36
+1347,2012,MODIS,desert scrub,185,12.83,160,2,3,36
+1310,2010,Landsat,desert scrub,188,12.72,160,2,2,36
+1244,2005,MODIS,desert scrub,193,12.54,164,2,3,36
+460,2013,Landsat,tamarisk healthy,193.9739,20.98,72,7,2,13
+1192,2001,MODIS,desert scrub,196,12.25,173,2,3,36
+1321,2010,MODIS,desert scrub,197,12.83,160,2,3,36
+1394,2007,flux tower,desert scrub,198.1,10.24,197,2,1,40
+1395,2008,flux tower,desert scrub,198.1,10.24,197,2,1,40
+1399,2012,flux tower,desert scrub,198.1,10.24,197,2,1,40
+1102,2003,flux tower,desert scrub,198.59,16.99,365,2,1,28
+463,2014,Landsat,riparian shrub,199.0446,22.38,78,4,2,13
+1055,2007,Landsat,desert scrub,202.4,9.07,242,2,2,26
+979,2006,Landsat,tamarisk biocontrol,203,12.09,127,6,2,24
+1104,2004,flux tower,desert scrub,204.93,16.99,365,2,1,28
+957,2001,Landsat,tamarisk healthy,205,7.88,368,7,2,24
+1419,"2004, 2007-2012",MODIS,desert scrub,206,16.99,365,2,3,43
+1253,2005,MODIS,desert scrub,207,13.2,151,2,3,36
+1279,2007,MODIS,desert scrub,209,12.83,160,2,3,36
+1319,2010,MODIS,desert scrub,209,12.59,163,2,3,36
+1293,2008,MODIS,desert scrub,210,12.83,160,2,3,36
+965,2003,Landsat,tamarisk healthy,212,11.86,258,7,2,24
+1054,2007,Landsat,desert scrub,213.7,10.27,196,2,2,26
+461,2014,Landsat,cottonwood willow,213.8613,20.96,67,1,2,13
+1251,2005,MODIS,desert scrub,214,12.83,160,2,3,36
+1218,2003,MODIS,desert scrub,216,12.25,173,2,3,36
+1247,2005,MODIS,desert scrub,218,12.25,173,2,3,36
+1400,2013,flux tower,desert scrub,219.5,10.24,197,2,1,40
+1100,2002,flux tower,desert scrub,219.72,16.99,365,2,1,28
+1396,2009,flux tower,desert scrub,222.5,10.24,197,2,1,40
+1011,2000-2006,MODIS,tamarisk healthy,224,10.53,310,7,3,24
+1461,2008,sap flux,tamarisk biocontrol,225.4,12.03,245,6,4,45
+1397,2010,flux tower,desert scrub,225.6,10.24,197,2,1,40
+1462,2009,sap flux,tamarisk biocontrol,226.2,12.03,245,6,4,45
+440,2013,MODIS,cottonwood willow,226.2855,20.96,67,1,3,12
+1004,2011,Landsat,tamarisk biocontrol,227,11.86,258,6,2,24
+446,2014,MODIS,cottonwood willow,228.4355,20.96,67,1,3,12
+1114,2013,MODIS,mesquite bosque,230,18.61,451,3,3,29
+1016,2007-2010,MODIS,tamarisk biocontrol,232,10.53,310,6,3,24
+994,2009,Landsat,tamarisk biocontrol,235,11.86,258,6,2,24
+1148,2014,flux tower,tamarisk biocontrol,237.74,11.72,188,6,1,32
+1323,2010,MODIS,desert scrub,239,13.2,151,2,3,36
+271,2017,sap flux,mesquite bosque,239.2,20.14,114,3,4,7
+1051,2006,Landsat,desert scrub,240.4,9.07,242,2,2,26
+985,2007,Landsat,tamarisk biocontrol,241,12.09,127,6,2,24
+1417,"2004, 2007-2012",flux tower,desert scrub,241,16.99,365,2,1,43
+949,2000,Landsat,tamarisk healthy,242,11.86,258,7,2,24
+971,2004,Landsat,tamarisk healthy,242,11.86,258,7,2,24
+1147,2013,flux tower,tamarisk biocontrol,242.8,11.72,188,6,1,32
+467,2014,Landsat,tamarisk healthy,250.0108,20.98,72,7,2,13
+636,2000-2006,MODIS,tamarisk healthy,251,14.92,150,7,3,18
+1017,2007-2010,MODIS,tamarisk biocontrol,251,11.86,258,6,3,24
+1518,2006,flux tower,tamarisk biocontrol,256,12.09,127,6,1,49
+978,2005,Landsat,tamarisk healthy,258,13.16,218,7,2,24
+1515,2004,sap flux,tamarisk biocontrol,263,10.96,145,6,4,49
+954,2001,Landsat,tamarisk healthy,265,11.86,258,7,2,24
+999,2010,Landsat,tamarisk biocontrol,265,11.86,258,6,2,24
+633,2000-2006,MODIS,tamarisk healthy,270,11.34,309,7,3,18
+1012,2000-2006,MODIS,tamarisk healthy,270,11.86,258,7,3,24
+996,2009,Landsat,tamarisk biocontrol,271,10.96,145,6,2,24
+649,2007-2015,MODIS,tamarisk biocontrol,272,11.99,197,6,3,18
+1172,2000,MODIS,cottonwood willow,272,13.19,152,1,3,36
+1056,2007,Landsat,desert scrub,272.4,8.9,219,2,2,26
+981,2006,Landsat,tamarisk healthy,273,11.86,258,7,2,24
+1517,2005,flux tower,tamarisk biocontrol,273,12.09,127,6,1,49
+657,2017,flux tower,mesquite bosque,273.4,20.64,500,3,1,20
+1057,2007,Landsat,desert scrub,274.8,9.97,236,2,2,26
+1018,2007-2010,MODIS,tamarisk biocontrol,275,13.16,218,6,3,24
+955,2001,Landsat,tamarisk healthy,278,12.09,127,7,2,24
+974,2005,Landsat,tamarisk biocontrol,278,12.09,127,6,2,24
+990,2008,Landsat,tamarisk biocontrol,278,12.09,127,6,2,24
+988,2007,Landsat,tamarisk biocontrol,280,13.16,218,6,2,24
+1111,2013,MODIS,desert scrub,281,16.99,365,2,3,29
+21,2012,Landsat,tamarisk biocontrol,284,11.99,197,6,2,1
+642,2005-2015,Landsat,tamarisk biocontrol,284,13.05,224,6,2,18
+1160,2004,flux tower,mesquite bosque,285,18.61,451,3,1,34
+1098,2001,flux tower,desert scrub,285.21,16.99,365,2,1,28
+983,2006,Landsat,tamarisk healthy,288,13.16,218,7,2,24
+656,2017,flux tower,desert scrub,288.54,21.16,493,2,1,20
+631,2000-2006,Landsat,tamarisk healthy,289,10.38,307,7,2,18
+1255,2006,MODIS,cottonwood willow,290,13.19,152,1,3,36
+645,2007-2015,MODIS,tamarisk biocontrol,295,11.34,309,6,3,18
+1425,2004-2012,MODIS,mesquite bosque,299,18.61,451,3,3,43
+1162,2006,flux tower,mesquite bosque,300,18.61,451,3,1,34
+655,2017,flux tower,desert scrub,300.05,17.4,659,2,1,20
+962,2002,Landsat,tamarisk healthy,303,7.88,368,7,2,24
+1008,2011,Landsat,tamarisk biocontrol,303,13.16,218,6,2,24
+27,2018,Landsat,tamarisk biocontrol,304,11.99,197,6,2,1
+445,2013,MODIS,tamarisk healthy,304.2728,20.98,72,7,3,12
+1269,2007,MODIS,cottonwood willow,307,13.19,152,1,3,36
+1283,2008,MODIS,cottonwood willow,307,13.19,152,1,3,36
+1398,2011,flux tower,desert scrub,309.8,10.24,197,2,1,40
+950,2000,Landsat,tamarisk healthy,316,12.09,127,7,2,24
+1163,2007,flux tower,mesquite bosque,317,18.61,451,3,1,34
+952,2000,Landsat,tamarisk healthy,318,7.88,368,7,2,24
+647,2007-2015,MODIS,tamarisk biocontrol,319,12.72,209,6,3,18
+643,2007-2015,Landsat,tamarisk biocontrol,322,10.38,307,6,2,18
+272,2017,sap flux,mesquite bosque,322.9,20.14,114,3,4,7
+20,2011,Landsat,tamarisk biocontrol,323,11.99,197,6,2,1
+995,2009,Landsat,tamarisk biocontrol,323,12.09,127,6,2,24
+43,2000,MODIS,tamarisk healthy,324,22.9,112,7,3,3
+1325,2011,MODIS,cottonwood willow,324,13.19,152,1,3,36
+1421,2004-2012,flux tower,mesquite bosque,325,18.61,451,3,1,43
+977,2005,Landsat,tamarisk healthy,326,7.88,368,7,2,24
+1226,2004,MODIS,cottonwood willow,326,13.19,152,1,3,36
+260,2017,sap flux,desert scrub,326.4,20.14,114,2,4,7
+28,1997,flux tower,mesquite bosque,330,17.44,363,3,1,2
+1143,2009,flux tower,tamarisk biocontrol,331.32,11.72,188,6,1,32
+632,2000-2006,MODIS,tamarisk healthy,332,11.73,236,7,3,18
+1161,2005,flux tower,mesquite bosque,332,18.61,451,3,1,34
+984,2007,Landsat,tamarisk biocontrol,333,11.86,258,6,2,24
+644,2007-2015,MODIS,tamarisk biocontrol,334,11.73,236,6,3,18
+453,2014,MODIS,tamarisk healthy,340.262,20.98,72,7,3,12
+992,2008,Landsat,tamarisk biocontrol,341,7.88,368,6,2,24
+637,2000-2006,MODIS,tamarisk healthy,343,11.99,197,7,3,18
+443,2013,MODIS,tamarisk healthy,343.4856,21.77,69,7,3,12
+455,2013,Landsat,riparian shrub,345.8108,22.39,78,4,2,13
+23,2014,Landsat,tamarisk biocontrol,347,11.99,197,6,2,1
+1013,2000-2006,MODIS,tamarisk healthy,349,13.16,218,7,3,24
+285,2002,MODIS,mesquite bosque,349.14,17.5,353,3,3,8
+635,2000-2006,MODIS,tamarisk healthy,350,12.72,209,7,3,18
+449,2014,MODIS,riparian shrub,352.5141,22.38,78,4,3,12
+22,2013,Landsat,tamarisk biocontrol,353,11.99,197,6,2,1
+1005,2011,Landsat,tamarisk biocontrol,353,12.09,127,6,2,24
+212,2015,Landsat,riparian shrub,354.1,15.1,205,4,2,5
+967,2003,Landsat,tamarisk healthy,356,7.88,368,7,2,24
+998,2009,Landsat,tamarisk biocontrol,356,13.16,218,6,2,24
+1146,2012,flux tower,tamarisk biocontrol,356.61,11.72,188,6,1,32
+1106,2013,flux tower,desert scrub,359,16.99,365,2,1,29
+451,2014,MODIS,tamarisk healthy,359.2006,21.77,69,7,3,12
+1171,2007,flux tower,cottonwood willow,367,8.84,285,1,1,35
+1186,2001,MODIS,cottonwood willow,370,13.19,152,1,3,36
+211,2015,Landsat,riparian shrub,370.7,10.51,260,4,2,5
+982,2006,Landsat,tamarisk healthy,371,7.88,368,7,2,24
+1003,2010,Landsat,tamarisk biocontrol,371,13.16,218,6,2,24
+1241,2005,MODIS,cottonwood willow,372,13.19,152,1,3,36
+459,2013,Landsat,tamarisk healthy,373.6385,21.2,64,7,2,13
+246,1997,flux tower,mesquite bosque,375,17.44,363,3,1,6
+650,2009-2015,MODIS,tamarisk biocontrol,376,20.4,135,6,3,18
+216,2016,Landsat,riparian shrub,378.8,15.1,205,4,2,5
+987,2007,Landsat,tamarisk biocontrol,379,7.88,368,6,2,24
+1297,2009,MODIS,cottonwood willow,379,13.19,152,1,3,36
+639,2005-2015,Landsat,tamarisk biocontrol,380,8.37,351,6,2,18
+24,2015,Landsat,tamarisk biocontrol,381,11.99,197,6,2,1
+220,2017,Landsat,riparian shrub,383.5,15.1,205,4,2,5
+258,2016,sap flux,mesquite bosque,385.6,20.14,114,3,4,7
+11,2002,Landsat,tamarisk healthy,386,11.99,197,7,2,1
+1108,2013,flux tower,mesquite bosque,387,18.61,451,3,1,29
+19,2010,Landsat,tamarisk biocontrol,390,11.99,197,6,2,1
+57,2002,MODIS,tamarisk healthy,391,22.9,112,7,3,3
+1212,2003,MODIS,cottonwood willow,391,13.19,152,1,3,36
+25,2016,Landsat,tamarisk biocontrol,392,11.99,197,6,2,1
+224,2018,Landsat,riparian shrub,392.6,15.1,205,4,2,5
+1393,2016,flux tower,mesquite bosque,394,18.61,451,3,1,39
+1116,2013,MODIS,mesquite bosque,395,18.61,451,3,3,29
+1311,2010,MODIS,cottonwood willow,397,13.19,152,1,3,36
+960,2002,Landsat,tamarisk healthy,398,12.09,127,7,2,24
+972,2004,Landsat,tamarisk healthy,402,7.88,368,7,2,24
+1149,2015,flux tower,tamarisk biocontrol,402.14,11.72,188,6,1,32
+627,2000-2004,Landsat,tamarisk healthy,403,8.37,351,7,2,18
+1164,2000,flux tower,cottonwood willow,405,8.84,285,1,1,35
+1168,2004,flux tower,cottonwood willow,409,8.84,285,1,1,35
+208,2014,Landsat,riparian shrub,409.4,15.1,205,4,2,5
+466,2014,Landsat,tamarisk healthy,409.4857,21.2,64,7,2,13
+1142,2008,flux tower,tamarisk biocontrol,409.73,11.72,188,6,1,32
+975,2005,Landsat,tamarisk biocontrol,414,10.96,145,6,2,24
+71,2004,MODIS,tamarisk healthy,415,22.9,112,7,3,3
+1107,2013,flux tower,mesquite bosque,415,17.67,347,3,1,29
+228,2019,Landsat,riparian shrub,416.6,15.1,205,4,2,5
+319,2008,MODIS,riparian shrub,417,21.62,65,4,3,9
+997,2009,Landsat,tamarisk biocontrol,417,7.88,368,6,2,24
+215,2016,Landsat,riparian shrub,417.6,10.51,260,4,2,5
+1165,2001,flux tower,cottonwood willow,419,8.84,285,1,1,35
+1156,2012,MODIS,tamarisk biocontrol,419.3,20.17,139,6,3,33
+1000,2010,Landsat,tamarisk biocontrol,421,12.09,127,6,2,24
+901,2018,Landsat,tamarisk arrowweed mesquite,421.6216,20.96,67,5,2,21
+1144,2010,flux tower,tamarisk biocontrol,422.37,11.72,188,6,1,32
+1166,2002,flux tower,cottonwood willow,423,8.84,285,1,1,35
+448,2014,MODIS,riparian shrub,423.017,22.38,78,4,3,12
+12,2003,Landsat,tamarisk healthy,424,11.99,197,7,2,1
+1007,2011,Landsat,tamarisk biocontrol,424,7.88,368,6,2,24
+1052,2006,Landsat,desert scrub,424.3,9.97,236,2,2,26
+462,2014,Landsat,riparian shrub,430.7468,22.39,78,4,2,13
+209,2015,Landsat,cottonwood willow,431.7,10.51,260,1,2,5
+895,2018,Landsat,tamarisk arrowweed mesquite,435.8108,21.77,69,5,2,21
+929,2019,Landsat,tamarisk arrowweed mesquite,435.8108,20.96,67,5,2,21
+966,2003,Landsat,tamarisk healthy,436,12.09,127,7,2,24
+969,2004,Landsat,tamarisk biocontrol,436,12.09,127,6,2,24
+50,2001,MODIS,tamarisk healthy,437,22.9,112,7,3,3
+1167,2003,flux tower,cottonwood willow,437,8.84,285,1,1,35
+953,2000,Landsat,tamarisk healthy,439,13.16,218,7,2,24
+963,2002,Landsat,tamarisk healthy,439,13.16,218,7,2,24
+968,2003,Landsat,tamarisk healthy,439,13.16,218,7,2,24
+259,2016,sap flux,mesquite bosque,440.5,20.14,114,3,4,7
+890,2018,Landsat,tamarisk arrowweed mesquite,441.8848,20.96,67,5,2,21
+845,2016,Landsat,tamarisk arrowweed mesquite,443.9189,20.96,67,5,2,21
+92,2007,MODIS,tamarisk healthy,446,22.9,112,7,3,3
+15,2006,Landsat,tamarisk healthy,448,11.99,197,7,2,1
+26,2017,Landsat,tamarisk biocontrol,448,11.99,197,6,2,1
+64,2003,MODIS,tamarisk healthy,448,22.9,112,7,3,3
+834,2016,Landsat,tamarisk arrowweed mesquite,448.1675,20.96,67,5,2,21
+923,2019,Landsat,tamarisk arrowweed mesquite,450,21.77,69,5,2,21
+1490,2003,flux tower,mesquite bosque,450,17.45,361,3,1,48
+9,2000,Landsat,tamarisk healthy,454,11.99,197,7,2,1
+13,2004,Landsat,tamarisk healthy,454,11.99,197,7,2,1
+993,2008,Landsat,tamarisk biocontrol,455,13.16,218,6,2,24
+1002,2010,Landsat,tamarisk biocontrol,455,7.88,368,6,2,24
+873,2017,Landsat,tamarisk arrowweed mesquite,456.0811,20.96,67,5,2,21
+921,2019,Landsat,tamarisk arrowweed mesquite,456.0811,22.38,78,5,2,21
+207,2014,Landsat,riparian shrub,456.7,10.51,260,4,2,5
+578,2019,Landsat,tamarisk arrowweed mesquite,456.98,22.28,78,5,2,14
+85,2006,MODIS,tamarisk healthy,458,22.9,112,7,3,3
+867,2017,Landsat,tamarisk arrowweed mesquite,462.1622,21.77,69,5,2,21
+1014,2003-2010,MODIS,tamarisk biocontrol,466,10.96,145,6,3,24
+444,2013,MODIS,tamarisk healthy,471.9633,21.2,64,7,3,12
+893,2018,Landsat,tamarisk arrowweed mesquite,474.3243,22.38,78,5,2,21
+232,2020,Landsat,riparian shrub,476,15.1,205,4,2,5
+452,2014,MODIS,tamarisk healthy,478.2422,21.2,64,7,3,12
+223,2018,Landsat,riparian shrub,478.9,10.51,260,4,2,5
+640,2005-2015,Landsat,tamarisk biocontrol,479,12.06,250,6,2,18
+1170,2006,flux tower,cottonwood willow,481,8.84,285,1,1,35
+562,2018,Landsat,tamarisk arrowweed mesquite,481.8,22.28,78,5,2,14
+16,2007,Landsat,tamarisk healthy,483,11.99,197,7,2,1
+99,2008,MODIS,tamarisk healthy,483,22.9,112,7,3,3
+626,2010,Landsat,tamarisk healthy,483,23.52,91,7,2,17
+862,2017,Landsat,tamarisk arrowweed mesquite,483.7696,20.96,67,5,2,21
+213,2016,Landsat,cottonwood willow,483.9,10.51,260,1,2,5
+31,2003,flux tower,cottonwood willow,484,17.49,345,1,1,2
+1376,2003,sap flux,cottonwood willow,484,17.65,344,1,4,38
+839,2016,Landsat,tamarisk arrowweed mesquite,484.4595,21.77,69,5,2,21
+887,2018,Landsat,tamarisk arrowweed mesquite,485.8639,21.77,69,5,2,21
+288,2002,MODIS,riparian shrub,488.79,22.83,116,4,3,8
+1096,2000,flux tower,desert scrub,490.14,16.99,365,2,1,28
+600,2003,flux tower,mesquite bosque,491,17.45,361,3,1,15
+10,2001,Landsat,tamarisk healthy,495,11.99,197,7,2,1
+18,2009,Landsat,tamarisk healthy,495,11.99,197,7,2,1
+628,2000-2004,Landsat,tamarisk healthy,497,12.06,250,7,2,18
+1053,2007,Landsat,desert scrub,498.8,9.8,227,2,2,26
+1516,2004,sap flux,tamarisk healthy,499,10.96,145,7,4,49
+317,2004,MODIS,riparian shrub,500,21.62,65,4,3,9
+219,2017,Landsat,riparian shrub,503.6,10.51,260,4,2,5
+986,2007,Landsat,tamarisk biocontrol,504,10.96,145,6,2,24
+915,2019,Landsat,tamarisk arrowweed mesquite,504.712,21.77,69,5,2,21
+918,2019,Landsat,tamarisk arrowweed mesquite,504.712,20.96,67,5,2,21
+227,2019,Landsat,riparian shrub,507.6,10.51,260,4,2,5
+623,2007,Landsat,tamarisk healthy,508,23.52,91,7,2,17
+217,2017,Landsat,cottonwood willow,508.3,10.51,260,1,2,5
+755,2013,Landsat,tamarisk arrowweed mesquite,508.7838,21.77,69,5,2,21
+865,2017,Landsat,tamarisk arrowweed mesquite,510.8108,22.38,78,5,2,21
+630,2000-2004,Landsat,tamarisk healthy,511,13.05,224,7,2,18
+1001,2010,Landsat,tamarisk biocontrol,511,10.96,145,6,2,24
+1169,2005,flux tower,cottonwood willow,515,8.84,285,1,1,35
+859,2017,Landsat,tamarisk arrowweed mesquite,515.1832,21.77,69,5,2,21
+247,2016,sap flux,desert scrub,517,20.14,114,2,4,7
+811,2015,Landsat,tamarisk arrowweed mesquite,518.9189,21.77,69,5,2,21
+951,2000,Landsat,tamarisk healthy,519,10.96,145,7,2,24
+991,2008,Landsat,tamarisk biocontrol,519,10.96,145,6,2,24
+457,2013,Landsat,riparian shrub,520.595,21.44,69,4,2,13
+817,2015,Landsat,tamarisk arrowweed mesquite,520.9459,20.96,67,5,2,21
+914,2019,Landsat,tamarisk arrowweed mesquite,523.5602,22.38,78,5,2,21
+625,2009,Landsat,tamarisk healthy,524,23.52,91,7,2,17
+221,2018,Landsat,cottonwood willow,526.1,10.51,260,1,2,5
+902,2018,Landsat,tamarisk arrowweed mesquite,526.6781,20.96,67,5,2,21
+231,2020,Landsat,riparian shrub,527,10.51,260,4,2,5
+1145,2011,flux tower,tamarisk biocontrol,528.6,11.72,188,6,1,32
+846,2016,Landsat,tamarisk arrowweed mesquite,528.7435,20.96,67,5,2,21
+546,2017,Landsat,tamarisk arrowweed mesquite,531.44,22.28,78,5,2,14
+205,2014,Landsat,cottonwood willow,532.8,10.51,260,1,2,5
+761,2013,Landsat,tamarisk arrowweed mesquite,535.1351,20.96,67,5,2,21
+886,2018,Landsat,tamarisk arrowweed mesquite,536.1257,22.38,78,5,2,21
+958,2001,Landsat,tamarisk healthy,538,13.16,218,7,2,24
+973,2004,Landsat,tamarisk healthy,538,13.16,218,7,2,24
+806,2015,Landsat,tamarisk arrowweed mesquite,538.2199,20.96,67,5,2,21
+521,2016,Landsat,cottonwood willow,540.2,21.25,63,1,2,14
+88,2007,MODIS,tamarisk healthy,542,22.92,87,7,3,3
+210,2015,Landsat,cottonwood willow,542.3,15.1,205,1,2,5
+214,2016,Landsat,cottonwood willow,542.4,15.1,205,1,2,5
+753,2013,Landsat,tamarisk arrowweed mesquite,543.2432,22.38,78,5,2,21
+464,2014,Landsat,riparian shrub,543.4783,21.44,69,4,2,13
+874,2017,Landsat,tamarisk arrowweed mesquite,545.2668,20.96,67,5,2,21
+831,2016,Landsat,tamarisk arrowweed mesquite,546.5969,21.77,69,5,2,21
+594,2020,Landsat,tamarisk arrowweed mesquite,547.14,22.28,78,5,2,14
+818,2015,Landsat,tamarisk arrowweed mesquite,547.3322,20.96,67,5,2,21
+980,2006,Landsat,tamarisk biocontrol,549,10.96,145,6,2,24
+1127,2002,MODIS,tamarisk healthy,549,12.03,245,7,3,30
+727,2012,Landsat,tamarisk arrowweed mesquite,549.3243,21.77,69,5,2,21
+229,2020,Landsat,cottonwood willow,550.4,10.51,260,1,2,5
+218,2017,Landsat,cottonwood willow,554,15.1,205,1,2,5
+609,2006,flux tower,mesquite bosque,555,17.45,361,3,1,15
+725,2012,Landsat,tamarisk arrowweed mesquite,555.4054,22.38,78,5,2,21
+747,2013,Landsat,tamarisk arrowweed mesquite,557.0681,21.77,69,5,2,21
+226,2019,Landsat,cottonwood willow,558.1,15.1,205,1,2,5
+549,2018,Landsat,cottonwood willow,562.1,22.28,78,1,2,14
+858,2017,Landsat,tamarisk arrowweed mesquite,563.3508,22.38,78,5,2,21
+909,2018,MODIS,tamarisk arrowweed mesquite,564.7059,20.96,67,5,3,21
+34,2003,flux tower,mesquite bosque,565,17.44,363,3,1,2
+853,2016,MODIS,tamarisk arrowweed mesquite,566.7227,20.96,67,5,3,21
+612,2007,flux tower,mesquite bosque,567,17.45,361,3,1,15
+517,2016,Landsat,cottonwood willow,569.4,22.28,78,1,2,14
+533,2017,Landsat,cottonwood willow,573.05,22.28,78,1,2,14
+17,2008,Landsat,tamarisk healthy,574,11.99,197,7,2,1
+225,2019,Landsat,cottonwood willow,574.7,10.51,260,1,2,5
+315,2001,MODIS,riparian shrub,575,21.62,65,4,3,9
+883,2018,Landsat,mesquite bosque,575.6757,20.98,72,3,2,21
+911,2019,Landsat,mesquite bosque,577.7027,20.98,72,3,2,21
+803,2015,Landsat,tamarisk arrowweed mesquite,578.0105,21.77,69,5,2,21
+964,2003,Landsat,tamarisk biocontrol,579,10.96,145,6,2,24
+441,2013,MODIS,riparian shrub,580.2079,22.43,79,4,3,12
+505,2012,Landsat,tamarisk arrowweed mesquite,582.18,22.28,78,5,2,14
+750,2013,Landsat,tamarisk arrowweed mesquite,582.199,20.96,67,5,2,21
+930,2019,Landsat,tamarisk arrowweed mesquite,582.4441,20.96,67,5,2,21
+881,2017,MODIS,tamarisk arrowweed mesquite,582.8571,20.96,67,5,3,21
+719,2012,Landsat,tamarisk arrowweed mesquite,586.3874,21.77,69,5,2,21
+1009,2000-2002,MODIS,tamarisk healthy,587,10.96,145,7,3,24
+825,2015,MODIS,tamarisk arrowweed mesquite,588.9076,20.96,67,5,3,21
+837,2016,Landsat,tamarisk arrowweed mesquite,589.8649,22.38,78,5,2,21
+329,2003,flux tower,mesquite bosque,591,17.44,357,3,1,11
+557,2018,Landsat,cottonwood willow,591.3,21.09,63,1,2,14
+919,2019,Landsat,tamarisk arrowweed mesquite,591.8919,22.39,78,5,2,21
+230,2020,Landsat,cottonwood willow,595.8,15.1,205,1,2,5
+561,2018,Landsat,tamarisk arrowweed mesquite,596.41,21.44,69,5,2,14
+718,2012,Landsat,tamarisk arrowweed mesquite,596.8586,22.38,78,5,2,21
+206,2014,Landsat,cottonwood willow,596.9,15.1,205,1,2,5
+789,2014,Landsat,tamarisk arrowweed mesquite,597.973,20.96,67,5,2,21
+624,2008,Landsat,tamarisk healthy,598,23.52,91,7,2,17
+746,2013,Landsat,tamarisk arrowweed mesquite,598.9529,22.38,78,5,2,21
+606,2005,flux tower,mesquite bosque,601,17.45,361,3,1,15
+970,2004,Landsat,tamarisk biocontrol,602,10.96,145,6,2,24
+1128,2003,MODIS,tamarisk healthy,602,12.03,245,7,3,30
+577,2019,Landsat,tamarisk arrowweed mesquite,602.98,21.44,69,5,2,14
+783,2014,Landsat,tamarisk arrowweed mesquite,606.0811,21.77,69,5,2,21
+603,2004,flux tower,mesquite bosque,607,17.45,361,3,1,15
+87,2007,MODIS,tamarisk healthy,608,23.52,91,7,3,3
+1130,2005,MODIS,tamarisk healthy,614,12.03,245,7,3,30
+1150,2017,flux tower,tamarisk biocontrol,614.59,11.72,188,6,1,32
+733,2012,Landsat,tamarisk arrowweed mesquite,616.2162,20.96,67,5,2,21
+530,2016,Landsat,tamarisk arrowweed mesquite,616.85,22.28,78,5,2,14
+14,2005,Landsat,tamarisk healthy,617,11.99,197,7,2,1
+809,2015,Landsat,tamarisk arrowweed mesquite,618.2432,22.38,78,5,2,21
+78,2005,MODIS,tamarisk healthy,619,22.9,112,7,3,3
+289,2002,MODIS,riparian shrub,620.69,13.77,240,4,3,8
+447,2014,MODIS,riparian shrub,626.2562,22.43,79,4,3,12
+937,2019,MODIS,tamarisk arrowweed mesquite,627.2269,20.96,67,5,3,21
+222,2018,Landsat,cottonwood willow,628.2,15.1,205,1,2,5
+762,2013,Landsat,tamarisk arrowweed mesquite,629.9484,20.96,67,5,2,21
+1141,2002,flux tower,mesquite bosque,630,17.67,347,3,1,31
+827,2016,Landsat,mesquite bosque,630.4054,20.98,72,3,2,21
+855,2017,Landsat,mesquite bosque,630.4054,20.98,72,3,2,21
+81,2006,MODIS,tamarisk healthy,632,22.92,87,7,3,3
+339,2005,flux tower,mesquite bosque,634,17.44,357,3,1,11
+1151,2018,flux tower,tamarisk biocontrol,634.82,11.72,188,6,1,32
+30,2002,flux tower,mesquite bosque,638,17.44,363,3,1,2
+743,2013,Landsat,mesquite bosque,638.5135,20.98,72,3,2,21
+961,2002,Landsat,tamarisk healthy,639,10.96,145,7,2,24
+1489,2003,flux tower,mesquite bosque,639,17.63,350,3,1,48
+891,2018,Landsat,tamarisk arrowweed mesquite,640.5405,22.39,78,5,2,21
+882,2018,Landsat,mesquite bosque,640.8377,20.98,72,3,2,21
+1132,2007,MODIS,tamarisk biocontrol,641,12.03,245,6,3,30
+481,2004,Landsat,tamarisk arrowweed mesquite,642.04,22.28,78,5,2,14
+790,2014,Landsat,tamarisk arrowweed mesquite,642.3408,20.96,67,5,2,21
+812,2015,Landsat,tamarisk arrowweed mesquite,642.3408,21.77,69,5,2,21
+183,2016,Landsat,tamarisk biocontrol,642.47,23.39,109,6,2,4
+778,2014,Landsat,tamarisk arrowweed mesquite,645.0262,20.96,67,5,2,21
+1131,2006,MODIS,tamarisk healthy,647,12.03,245,7,3,30
+1126,2001,MODIS,tamarisk healthy,648,12.03,245,7,3,30
+182,2016,Landsat,tamarisk biocontrol,648.78,22.45,112,6,2,4
+556,2018,Landsat,cottonwood willow,649.7,21.26,63,1,2,14
+638,2000-2008,MODIS,tamarisk healthy,651,20.4,135,7,3,18
+734,2012,Landsat,tamarisk arrowweed mesquite,652.6678,20.96,67,5,2,21
+913,2019,Landsat,tamarisk arrowweed mesquite,653.4031,22.39,78,5,2,21
+956,2001,Landsat,tamarisk healthy,654,10.96,145,7,2,24
+450,2014,MODIS,riparian shrub,655.6694,21.44,69,4,3,12
+192,2018,Landsat,tamarisk biocontrol,656.23,22.45,112,6,2,4
+197,2019,Landsat,tamarisk biocontrol,656.37,22.45,112,6,2,4
+899,2018,Landsat,tamarisk arrowweed mesquite,656.7568,21.2,64,5,2,21
+896,2018,Landsat,tamarisk arrowweed mesquite,656.7986,21.77,69,5,2,21
+822,2015,MODIS,tamarisk arrowweed mesquite,657.479,21.77,69,5,3,21
+910,2019,Landsat,mesquite bosque,657.5916,20.98,72,3,2,21
+327,2002,MODIS,riparian shrub,660,17.44,357,4,3,11
+337,2004,MODIS,riparian shrub,660,17.44,357,4,3,11
+545,2017,Landsat,tamarisk arrowweed mesquite,660.29,21.44,69,5,2,14
+840,2016,Landsat,tamarisk arrowweed mesquite,660.9294,21.77,69,5,2,21
+493,2008,Landsat,tamarisk arrowweed mesquite,662.11,22.28,78,5,2,14
+927,2019,Landsat,tamarisk arrowweed mesquite,662.8378,21.2,64,5,2,21
+605,2005,flux tower,mesquite bosque,663,17.63,350,3,1,15
+608,2006,flux tower,mesquite bosque,663,17.63,350,3,1,15
+565,2019,Landsat,cottonwood willow,664.3,22.28,78,1,2,14
+163,2012,Landsat,tamarisk healthy,665.41,23.39,109,7,2,4
+830,2016,Landsat,tamarisk arrowweed mesquite,665.9686,22.38,78,5,2,21
+728,2012,Landsat,tamarisk arrowweed mesquite,667.1256,21.77,69,5,2,21
+906,2018,MODIS,tamarisk arrowweed mesquite,667.563,21.77,69,5,3,21
+442,2013,MODIS,riparian shrub,668.6959,21.44,69,4,3,12
+336,2004,MODIS,mesquite bosque,673,17.18,395,3,3,11
+884,2018,Landsat,mesquite bosque,673.3219,20.98,72,3,2,21
+529,2016,Landsat,tamarisk arrowweed mesquite,673.43,21.44,69,5,2,14
+850,2016,MODIS,tamarisk arrowweed mesquite,673.6134,21.77,69,5,3,21
+775,2014,Landsat,tamarisk arrowweed mesquite,674.3455,21.77,69,5,2,21
+738,2012,MODIS,tamarisk arrowweed mesquite,675.6303,21.77,69,5,3,21
+35,2003,flux tower,mesquite bosque,676,17.44,363,3,1,2
+621,2004,Landsat,tamarisk healthy,677,23.52,91,7,2,17
+1129,2004,MODIS,tamarisk healthy,677,12.03,245,7,3,30
+593,2020,Landsat,tamarisk arrowweed mesquite,677.08,21.44,69,5,2,14
+868,2017,Landsat,tamarisk arrowweed mesquite,677.4527,21.77,69,5,2,21
+769,2013,MODIS,tamarisk arrowweed mesquite,677.6471,20.96,67,5,3,21
+198,2019,Landsat,tamarisk biocontrol,677.7,23.39,109,6,2,4
+508,2013,Landsat,tamarisk arrowweed mesquite,677.81,22.28,78,5,2,14
+863,2017,Landsat,tamarisk arrowweed mesquite,679.0541,22.39,78,5,2,21
+722,2012,Landsat,tamarisk arrowweed mesquite,680.6283,20.96,67,5,2,21
+894,2018,Landsat,tamarisk arrowweed mesquite,681.5835,22.38,78,5,2,21
+797,2014,MODIS,tamarisk arrowweed mesquite,685.7143,20.96,67,5,3,21
+95,2008,MODIS,tamarisk healthy,686,22.92,87,7,3,3
+885,2018,Landsat,tamarisk arrowweed mesquite,686.911,22.39,78,5,2,21
+334,2004,flux tower,mesquite bosque,687,17.44,357,3,1,11
+878,2017,MODIS,tamarisk arrowweed mesquite,689.7479,21.77,69,5,3,21
+726,2012,Landsat,tamarisk arrowweed mesquite,689.8451,22.38,78,5,2,21
+1483,2003,flux tower,tamarisk healthy,690,13.67,223,7,1,47
+292,2002,MODIS,tamarisk healthy,690.51,22.83,116,7,3,8
+802,2015,Landsat,tamarisk arrowweed mesquite,691.0995,22.38,78,5,2,21
+866,2017,Landsat,tamarisk arrowweed mesquite,691.9105,22.38,78,5,2,21
+1006,2011,Landsat,tamarisk biocontrol,692,10.96,145,6,2,24
+699,2011,Landsat,tamarisk arrowweed mesquite,693.2432,21.77,69,5,2,21
+905,2018,MODIS,tamarisk arrowweed mesquite,693.7815,22.38,78,5,3,21
+756,2013,Landsat,tamarisk arrowweed mesquite,693.9759,21.77,69,5,2,21
+29,2001,flux tower,mesquite bosque,694,17.44,363,3,1,2
+715,2012,Landsat,mesquite bosque,695.2703,20.98,72,3,2,21
+781,2014,Landsat,tamarisk arrowweed mesquite,695.2703,22.38,78,5,2,21
+705,2011,Landsat,tamarisk arrowweed mesquite,696.0413,20.96,67,5,2,21
+332,2003,MODIS,riparian shrub,697,17.44,357,4,3,11
+181,2016,Landsat,riparian shrub,697.14,23.2,132,4,2,4
+514,2015,Landsat,tamarisk arrowweed mesquite,697.15,22.28,78,5,2,14
+80,2006,MODIS,tamarisk healthy,699,23.52,91,7,3,3
+826,2016,Landsat,mesquite bosque,699.4764,20.98,72,3,2,21
+193,2018,Landsat,tamarisk biocontrol,699.48,23.39,109,6,2,4
+741,2012,MODIS,tamarisk arrowweed mesquite,699.8319,20.96,67,5,3,21
+161,2012,Landsat,riparian shrub,701,23.2,132,4,2,4
+602,2004,flux tower,mesquite bosque,703,17.63,350,3,1,15
+854,2017,Landsat,mesquite bosque,703.6649,20.98,72,3,2,21
+877,2017,MODIS,tamarisk arrowweed mesquite,703.8655,22.38,78,5,3,21
+520,2016,Landsat,cottonwood willow,704.45,21.41,64,1,2,14
+136,2007,Landsat,riparian shrub,705.19,23.2,132,4,2,4
+737,2012,MODIS,tamarisk arrowweed mesquite,705.8824,22.38,78,5,3,21
+138,2007,Landsat,tamarisk healthy,706.2,23.39,109,7,2,4
+187,2017,Landsat,tamarisk biocontrol,706.63,22.45,112,6,2,4
+1125,2000,MODIS,tamarisk healthy,707,12.03,245,7,3,30
+1466,2004,flux tower,mesquite bosque,707.14,22.46,117,3,1,46
+799,2015,Landsat,mesquite bosque,707.4324,20.98,72,3,2,21
+843,2016,Landsat,tamarisk arrowweed mesquite,707.4324,21.2,64,5,2,21
+677,2010,Landsat,tamarisk arrowweed mesquite,708.4337,20.96,67,5,2,21
+828,2016,Landsat,mesquite bosque,708.4337,20.98,72,3,2,21
+599,2003,flux tower,mesquite bosque,709,17.63,350,3,1,15
+766,2013,MODIS,tamarisk arrowweed mesquite,709.916,21.77,69,5,3,21
+903,2018,MODIS,mesquite bosque,709.916,20.98,72,3,3,21
+94,2008,MODIS,tamarisk healthy,710,23.52,91,7,3,3
+326,2002,MODIS,mesquite bosque,710,17.18,395,3,3,11
+646,2007-2015,MODIS,tamarisk biocontrol,710,13.18,223,6,3,18
+1479,2002,flux tower,tamarisk healthy,710,13.67,223,7,1,47
+671,2010,Landsat,tamarisk arrowweed mesquite,711.4865,21.77,69,5,2,21
+325,2001,MODIS,riparian shrub,712,17.44,357,4,3,11
+77,2005,MODIS,tamarisk healthy,713,23.81,89,7,3,3
+340,2005,flux tower,mesquite bosque,713,17.44,357,3,1,11
+487,2006,Landsat,tamarisk arrowweed mesquite,713.58,22.28,78,5,2,14
+742,2013,Landsat,mesquite bosque,714.1361,20.98,72,3,2,21
+158,2011,Landsat,tamarisk healthy,714.74,23.39,109,7,2,4
+1464,2003,flux tower,riparian shrub,716.28,22.46,117,4,1,46
+871,2017,Landsat,tamarisk arrowweed mesquite,717.5676,21.2,64,5,2,21
+1355,2002,MODIS,tamarisk healthy,718.69,21.2,64,7,3,37
+856,2017,Landsat,mesquite bosque,718.7608,20.98,72,3,2,21
+335,2004,flux tower,mesquite bosque,721,17.44,357,3,1,11
+611,2007,flux tower,mesquite bosque,721,17.63,350,3,1,15
+196,2019,Landsat,riparian shrub,721.95,23.2,132,4,2,4
+700,2011,Landsat,tamarisk arrowweed mesquite,722.8916,21.77,69,5,2,21
+697,2011,Landsat,tamarisk arrowweed mesquite,723.6486,22.38,78,5,2,21
+754,2013,Landsat,tamarisk arrowweed mesquite,724.957,22.38,78,5,2,21
+800,2015,Landsat,mesquite bosque,724.957,20.98,72,3,2,21
+559,2018,Landsat,cottonwood willow,726.35,21.11,63,1,2,14
+672,2010,Landsat,tamarisk arrowweed mesquite,727.0224,21.77,69,5,2,21
+669,2010,Landsat,tamarisk arrowweed mesquite,727.7027,22.38,78,5,2,21
+924,2019,Landsat,tamarisk arrowweed mesquite,729.0878,21.77,69,5,2,21
+504,2012,Landsat,tamarisk arrowweed mesquite,729.64,21.44,69,5,2,14
+480,2004,Landsat,tamarisk arrowweed mesquite,730.37,21.44,69,5,2,14
+490,2007,Landsat,tamarisk arrowweed mesquite,730.37,22.28,78,5,2,14
+810,2015,Landsat,tamarisk arrowweed mesquite,731.1532,22.38,78,5,2,21
+199,2019,Landsat,tamarisk biocontrol,731.24,22.23,93,6,2,4
+706,2011,Landsat,tamarisk arrowweed mesquite,731.7568,20.96,67,5,2,21
+710,2011,MODIS,tamarisk arrowweed mesquite,732.1008,21.77,69,5,3,21
+889,2018,Landsat,tamarisk arrowweed mesquite,732.9843,21.2,64,5,2,21
+744,2013,Landsat,mesquite bosque,733.2186,20.98,72,3,2,21
+682,2010,MODIS,tamarisk arrowweed mesquite,734.1176,21.77,69,5,3,21
+341,2005,MODIS,mesquite bosque,735,17.18,395,3,3,11
+342,2005,MODIS,riparian shrub,735,17.44,357,4,3,11
+857,2017,Landsat,tamarisk arrowweed mesquite,735.0785,22.39,78,5,2,21
+162,2012,Landsat,tamarisk healthy,736.66,22.45,112,7,2,4
+784,2014,Landsat,tamarisk arrowweed mesquite,737.3494,21.77,69,5,2,21
+484,2005,Landsat,tamarisk arrowweed mesquite,738.03,22.28,78,5,2,14
+499,2010,Landsat,tamarisk arrowweed mesquite,738.76,22.28,78,5,2,14
+324,2001,MODIS,mesquite bosque,739,17.18,395,3,3,11
+331,2003,MODIS,mesquite bosque,739,17.18,395,3,3,11
+178,2015,Landsat,tamarisk biocontrol,739.64,23.39,109,6,2,4
+678,2010,Landsat,tamarisk arrowweed mesquite,739.8649,20.96,67,5,2,21
+939,1999,flux tower,tamarisk healthy,740,13.67,223,7,1,22
+1431,1999,flux tower,tamarisk healthy,740,13.65,223,7,1,44
+765,2013,MODIS,tamarisk arrowweed mesquite,740.1681,22.38,78,5,3,21
+934,2019,MODIS,tamarisk arrowweed mesquite,740.1681,21.77,69,5,3,21
+536,2017,Landsat,cottonwood willow,740.95,21.41,64,1,2,14
+713,2011,MODIS,tamarisk arrowweed mesquite,742.1849,20.96,67,5,3,21
+698,2011,Landsat,tamarisk arrowweed mesquite,743.5456,22.38,78,5,2,21
+900,2018,Landsat,tamarisk arrowweed mesquite,743.5456,21.2,64,5,2,21
+821,2015,MODIS,tamarisk arrowweed mesquite,744.2017,22.38,78,5,3,21
+847,2016,MODIS,mesquite bosque,744.2017,20.98,72,3,3,21
+670,2010,Landsat,tamarisk arrowweed mesquite,745.611,22.38,78,5,2,21
+716,2012,Landsat,mesquite bosque,745.611,20.98,72,3,2,21
+330,2003,flux tower,mesquite bosque,746,17.44,357,3,1,11
+619,2002,Landsat,tamarisk healthy,746,23.52,91,7,2,17
+123,2004,Landsat,tamarisk healthy,747.23,23.39,109,7,2,4
+180,2016,Landsat,cottonwood willow,747.84,23.89,89,1,2,4
+652,1999-2010,flux tower,cottonwood willow,749.44,13.69,226,1,1,19
+912,2019,Landsat,mesquite bosque,749.7418,20.98,72,3,2,21
+617,2000,Landsat,tamarisk healthy,750,23.52,91,7,2,17
+1115,2013,MODIS,mesquite bosque,750,17.67,347,3,3,29
+794,2014,MODIS,tamarisk arrowweed mesquite,750.2521,21.77,69,5,3,21
+160,2012,Landsat,cottonwood willow,751.1,23.89,89,1,2,4
+838,2016,Landsat,tamarisk arrowweed mesquite,751.8072,22.38,78,5,2,21
+685,2010,MODIS,tamarisk arrowweed mesquite,752.2689,20.96,67,5,3,21
+875,2017,MODIS,mesquite bosque,752.2689,20.98,72,3,3,21
+917,2019,Landsat,tamarisk arrowweed mesquite,753.9267,21.2,64,5,2,21
+622,2005,Landsat,tamarisk healthy,754,23.52,91,7,2,17
+922,2019,Landsat,tamarisk arrowweed mesquite,755.938,22.38,78,5,2,21
+691,2011,Landsat,tamarisk arrowweed mesquite,756.0209,21.77,69,5,2,21
+771,2014,Landsat,mesquite bosque,756.0811,20.98,72,3,2,21
+681,2010,MODIS,tamarisk arrowweed mesquite,756.3025,22.38,78,5,3,21
+709,2011,MODIS,tamarisk arrowweed mesquite,756.3025,22.38,78,5,3,21
+496,2009,Landsat,tamarisk arrowweed mesquite,757.01,22.28,78,5,2,14
+168,2013,Landsat,tamarisk healthy,758.27,23.39,109,7,2,4
+943,2000,flux tower,tamarisk healthy,760,13.67,223,7,1,22
+835,2016,Landsat,tamarisk arrowweed mesquite,760.1351,22.39,78,5,2,21
+510,2014,Landsat,tamarisk arrowweed mesquite,760.66,21.44,69,5,2,14
+191,2018,Landsat,riparian shrub,760.86,23.2,132,4,2,4
+1041,2014-2019,Landsat,cottonwood willow,761,17.49,345,1,2,25
+819,2015,MODIS,mesquite bosque,762.3529,20.98,72,3,3,21
+849,2016,MODIS,tamarisk arrowweed mesquite,762.3529,22.38,78,5,3,21
+527,2016,Landsat,cottonwood willow,762.85,21.11,63,1,2,14
+291,2002,MODIS,riparian shrub,763,17.5,353,4,3,8
+1112,2013,MODIS,desert scrub,763,16.99,365,2,3,29
+195,2019,Landsat,cottonwood willow,765.48,23.89,89,1,2,4
+714,2012,Landsat,mesquite bosque,766.4921,20.98,72,3,2,21
+203,2020,Landsat,tamarisk biocontrol,768.14,23.39,109,6,2,4
+751,2013,Landsat,tamarisk arrowweed mesquite,768.2432,22.39,78,5,2,21
+155,2011,Landsat,cottonwood willow,770.47,23.89,89,1,2,4
+774,2014,Landsat,tamarisk arrowweed mesquite,770.6806,22.38,78,5,2,21
+513,2015,Landsat,tamarisk arrowweed mesquite,772.34,21.44,69,5,2,14
+933,2019,MODIS,tamarisk arrowweed mesquite,772.437,22.38,78,5,3,21
+1354,2002,MODIS,riparian shrub,775.13,21.77,69,4,3,37
+121,2004,Landsat,riparian shrub,775.97,23.2,132,4,2,4
+763,2013,MODIS,mesquite bosque,776.4706,20.98,72,3,3,21
+663,2010,Landsat,tamarisk arrowweed mesquite,776.9634,21.77,69,5,2,21
+74,2005,MODIS,tamarisk healthy,778,22.92,87,7,3,3
+723,2012,Landsat,tamarisk arrowweed mesquite,778.3784,22.39,78,5,2,21
+844,2016,Landsat,tamarisk arrowweed mesquite,778.6575,21.2,64,5,2,21
+687,2011,Landsat,mesquite bosque,780.7229,20.98,72,3,2,21
+772,2014,Landsat,mesquite bosque,780.7229,20.98,72,3,2,21
+492,2008,Landsat,tamarisk arrowweed mesquite,780.74,21.44,69,5,2,14
+516,2016,Landsat,cottonwood willow,781.1,21.31,63,1,2,14
+156,2011,Landsat,riparian shrub,782,23.2,132,4,2,4
+690,2011,Landsat,tamarisk arrowweed mesquite,783.2461,22.38,78,5,2,21
+798,2015,Landsat,mesquite bosque,783.2461,20.98,72,3,2,21
+735,2012,MODIS,mesquite bosque,784.5378,20.98,72,3,3,21
+908,2018,MODIS,tamarisk arrowweed mesquite,784.5378,21.2,64,5,3,21
+575,2019,Landsat,cottonwood willow,784.75,21.11,63,1,2,14
+833,2016,Landsat,tamarisk arrowweed mesquite,785.3403,21.2,64,5,2,21
+662,2010,Landsat,tamarisk arrowweed mesquite,787.4346,22.38,78,5,2,21
+295,2003,MODIS,riparian shrub,790,17.5,353,4,3,8
+290,2002,MODIS,riparian shrub,791,13.77,240,4,3,8
+931,2019,MODIS,mesquite bosque,794.6218,20.98,72,3,3,21
+204,2020,Landsat,tamarisk biocontrol,796.1,22.23,93,6,2,4
+872,2017,Landsat,tamarisk arrowweed mesquite,799.3115,21.2,64,5,2,21
+1487,2004,flux tower,tamarisk healthy,800,13.67,223,7,1,47
+759,2013,Landsat,tamarisk arrowweed mesquite,800.6757,21.2,64,5,2,21
+91,2007,MODIS,tamarisk healthy,801,23.81,89,7,3,3
+861,2017,Landsat,tamarisk arrowweed mesquite,802.0942,21.2,64,5,2,21
+176,2015,Landsat,riparian shrub,802.45,23.2,132,4,2,4
+118,2003,Landsat,tamarisk healthy,805.11,23.39,109,7,2,4
+782,2014,Landsat,tamarisk arrowweed mesquite,805.5077,22.38,78,5,2,21
+815,2015,Landsat,tamarisk arrowweed mesquite,805.5077,21.2,64,5,2,21
+70,2004,MODIS,tamarisk healthy,806,23.81,89,7,3,3
+153,2010,Landsat,tamarisk healthy,806.11,23.39,109,7,2,4
+478,2003,Landsat,tamarisk arrowweed mesquite,806.29,22.28,78,5,2,14
+177,2015,Landsat,tamarisk biocontrol,806.47,22.45,112,6,2,4
+634,2000-2006,MODIS,tamarisk healthy,807,13.18,223,7,3,18
+688,2011,Landsat,mesquite bosque,808.7838,20.98,72,3,2,21
+164,2012,Landsat,tamarisk healthy,809.38,22.23,93,7,2,4
+135,2007,Landsat,cottonwood willow,809.78,23.89,89,1,2,4
+165,2013,Landsat,cottonwood willow,810.3,23.89,89,1,2,4
+133,2006,Landsat,tamarisk healthy,811.53,23.39,109,7,2,4
+511,2014,Landsat,tamarisk arrowweed mesquite,811.76,22.28,78,5,2,14
+852,2016,MODIS,tamarisk arrowweed mesquite,812.7731,21.2,64,5,3,21
+816,2015,Landsat,tamarisk arrowweed mesquite,812.8378,21.2,64,5,2,21
+659,2010,Landsat,mesquite bosque,813.7694,20.98,72,3,2,21
+543,2017,Landsat,cottonwood willow,813.95,21.11,63,1,2,14
+157,2011,Landsat,tamarisk healthy,814.59,22.45,112,7,2,4
+694,2011,Landsat,tamarisk arrowweed mesquite,814.6597,20.96,67,5,2,21
+829,2016,Landsat,tamarisk arrowweed mesquite,814.6597,22.39,78,5,2,21
+791,2014,MODIS,mesquite bosque,814.7899,20.98,72,3,3,21
+745,2013,Landsat,tamarisk arrowweed mesquite,816.7539,22.39,78,5,2,21
+616,2013,flux tower,tamarisk healthy,818,15.45,258,7,1,16
+36,2003,flux tower,riparian shrub,819,17.44,363,4,1,2
+707,2011,MODIS,mesquite bosque,820.8403,20.98,72,3,3,21
+793,2014,MODIS,tamarisk arrowweed mesquite,820.8403,22.38,78,5,3,21
+188,2017,Landsat,tamarisk biocontrol,821.99,23.39,109,6,2,4
+1463,2003,flux tower,mesquite bosque,822.96,22.46,117,3,1,46
+864,2017,Landsat,tamarisk arrowweed mesquite,826.1618,22.39,78,5,2,21
+190,2018,Landsat,cottonwood willow,826.52,23.89,89,1,2,4
+807,2015,Landsat,tamarisk arrowweed mesquite,827.027,22.39,78,5,2,21
+175,2015,Landsat,cottonwood willow,827.11,23.89,89,1,2,4
+151,2010,Landsat,riparian shrub,827.7,23.2,132,4,2,4
+184,2016,Landsat,tamarisk biocontrol,827.73,22.23,93,6,2,4
+140,2008,Landsat,cottonwood willow,829.19,23.89,89,1,2,4
+167,2013,Landsat,tamarisk healthy,829.52,22.45,112,7,2,4
+1392,2016,flux tower,mesquite bosque,830,17.29,394,3,1,39
+1475,2001,flux tower,tamarisk healthy,830,13.67,223,7,1,47
+717,2012,Landsat,tamarisk arrowweed mesquite,831.4136,22.39,78,5,2,21
+770,2014,Landsat,mesquite bosque,831.4136,20.98,72,3,2,21
+502,2011,Landsat,tamarisk arrowweed mesquite,831.84,22.28,78,5,2,14
+277,2000,MODIS,riparian shrub,832,22.83,116,4,3,8
+294,2003,MODIS,riparian shrub,832,13.77,240,4,3,8
+486,2006,Landsat,tamarisk arrowweed mesquite,832.2,21.44,69,5,2,14
+507,2013,Landsat,tamarisk arrowweed mesquite,832.2,21.44,69,5,2,14
+566,2019,Landsat,cottonwood willow,832.2,21.17,63,1,2,14
+880,2017,MODIS,tamarisk arrowweed mesquite,832.9412,21.2,64,5,3,21
+66,2004,MODIS,tamarisk healthy,833,23.52,91,7,3,3
+666,2010,Landsat,tamarisk arrowweed mesquite,833.5079,20.96,67,5,2,21
+52,2002,MODIS,tamarisk healthy,834,23.52,91,7,3,3
+808,2015,Landsat,tamarisk arrowweed mesquite,834.4234,22.39,78,5,2,21
+892,2018,Landsat,tamarisk arrowweed mesquite,836.4888,22.39,78,5,2,21
+137,2007,Landsat,tamarisk healthy,837.06,22.45,112,7,2,4
+660,2010,Landsat,mesquite bosque,837.1622,20.98,72,3,2,21
+202,2020,Landsat,tamarisk biocontrol,839.29,22.45,112,6,2,4
+67,2004,MODIS,tamarisk healthy,840,22.92,87,7,3,3
+194,2018,Landsat,tamarisk biocontrol,841.92,22.23,93,6,2,4
+173,2014,Landsat,tamarisk biocontrol,842.62,23.39,109,6,2,4
+824,2015,MODIS,tamarisk arrowweed mesquite,843.0252,21.2,64,5,3,21
+876,2017,MODIS,tamarisk arrowweed mesquite,843.0252,22.39,78,5,3,21
+552,2018,Landsat,cottonwood willow,843.15,21.41,64,1,2,14
+131,2006,Landsat,riparian shrub,843.9,23.2,132,4,2,4
+293,2003,MODIS,riparian shrub,844,22.83,116,4,3,8
+280,2001,MODIS,riparian shrub,846,22.83,116,4,3,8
+518,2016,Landsat,cottonwood willow,846.8,21.17,63,1,2,14
+148,2009,Landsat,tamarisk healthy,846.86,23.39,109,7,2,4
+84,2006,MODIS,tamarisk healthy,848,23.81,89,7,3,3
+928,2019,Landsat,tamarisk arrowweed mesquite,848.8812,21.2,64,5,2,21
+620,2003,Landsat,tamarisk healthy,849,23.52,91,7,2,17
+618,2001,Landsat,tamarisk healthy,851,23.52,91,7,2,17
+166,2013,Landsat,riparian shrub,853.91,23.2,132,4,2,4
+169,2013,Landsat,tamarisk healthy,854.13,22.23,93,7,2,4
+489,2007,Landsat,tamarisk arrowweed mesquite,854.83,21.44,69,5,2,14
+200,2020,Landsat,cottonwood willow,855.06,23.89,89,1,2,4
+904,2018,MODIS,tamarisk arrowweed mesquite,855.1261,22.39,78,5,3,21
+731,2012,Landsat,tamarisk arrowweed mesquite,855.4054,21.2,64,5,2,21
+186,2017,Landsat,riparian shrub,856.94,23.2,132,4,2,4
+98,2008,MODIS,tamarisk healthy,857,23.81,89,7,3,3
+679,2010,MODIS,mesquite bosque,857.1429,20.98,72,3,3,21
+550,2018,Landsat,cottonwood willow,857.75,21.17,63,1,2,14
+820,2015,MODIS,tamarisk arrowweed mesquite,859.1597,22.39,78,5,3,21
+159,2011,Landsat,tamarisk healthy,859.83,22.23,93,7,2,4
+1471,2000,flux tower,tamarisk healthy,860,13.67,223,7,1,47
+724,2012,Landsat,tamarisk arrowweed mesquite,861.2737,22.39,78,5,2,21
+185,2017,Landsat,cottonwood willow,861.63,23.89,89,1,2,4
+143,2008,Landsat,tamarisk healthy,861.66,23.39,109,7,2,4
+498,2010,Landsat,tamarisk arrowweed mesquite,863.23,21.44,69,5,2,14
+495,2009,Landsat,tamarisk arrowweed mesquite,864.32,21.44,69,5,2,14
+150,2010,Landsat,cottonwood willow,865.07,23.89,89,1,2,4
+483,2005,Landsat,tamarisk arrowweed mesquite,867.24,21.44,69,5,2,14
+534,2017,Landsat,cottonwood willow,868.7,21.17,63,1,2,14
+836,2016,Landsat,tamarisk arrowweed mesquite,869.5353,22.39,78,5,2,21
+1478,2002,flux tower,tamarisk healthy,870,14.21,241,7,1,47
+736,2012,MODIS,tamarisk arrowweed mesquite,871.2605,22.39,78,5,3,21
+752,2013,Landsat,tamarisk arrowweed mesquite,871.6007,22.39,78,5,2,21
+122,2004,Landsat,tamarisk healthy,873.71,22.45,112,7,2,4
+106,2001,Landsat,riparian shrub,874.21,23.2,132,4,2,4
+139,2007,Landsat,tamarisk healthy,875.76,22.23,93,7,2,4
+59,2003,MODIS,tamarisk healthy,876,23.52,91,7,3,3
+482,2004,Landsat,tamarisk arrowweed mesquite,879.29,21.44,69,5,2,14
+749,2013,Landsat,tamarisk arrowweed mesquite,879.5812,21.2,64,5,2,21
+141,2008,Landsat,riparian shrub,880.1,23.2,132,4,2,4
+116,2003,Landsat,riparian shrub,880.14,23.2,132,4,2,4
+279,2000,MODIS,riparian shrub,881,17.5,353,4,3,8
+287,2002,MODIS,riparian shrub,881,22.83,116,4,3,8
+653,2000-2003,flux tower,tamarisk healthy,881.04,13.09,230,7,1,19
+848,2016,MODIS,tamarisk arrowweed mesquite,881.3445,22.39,78,5,3,21
+760,2013,Landsat,tamarisk arrowweed mesquite,881.9277,21.2,64,5,2,21
+120,2004,Landsat,cottonwood willow,882.01,23.89,89,1,2,4
+936,2019,MODIS,tamarisk arrowweed mesquite,883.3613,21.2,64,5,3,21
+732,2012,Landsat,tamarisk arrowweed mesquite,883.9931,21.2,64,5,2,21
+1081,2008,Landsat,tamarisk healthy,884,20.69,130,7,2,27
+563,2018,Landsat,tamarisk arrowweed mesquite,884.76,21.44,69,5,2,14
+764,2013,MODIS,tamarisk arrowweed mesquite,885.3782,22.39,78,5,3,21
+801,2015,Landsat,tamarisk arrowweed mesquite,885.8639,22.39,78,5,2,21
+472,2001,Landsat,tamarisk arrowweed mesquite,888.41,22.28,78,5,2,14
+152,2010,Landsat,tamarisk healthy,888.79,22.45,112,7,2,4
+1090,2012,Landsat,tamarisk biocontrol,889,20.4,135,6,2,27
+595,2020,Landsat,tamarisk arrowweed mesquite,889.87,21.44,69,5,2,14
+805,2015,Landsat,tamarisk arrowweed mesquite,890.0524,21.2,64,5,2,21
+146,2009,Landsat,riparian shrub,891.1,23.2,132,4,2,4
+897,2018,Landsat,tamarisk arrowweed mesquite,891.8919,21.44,69,5,2,21
+115,2003,Landsat,cottonwood willow,893.2,23.89,89,1,2,4
+522,2016,Landsat,cottonwood willow,894.25,21.18,62,1,2,14
+703,2011,Landsat,tamarisk arrowweed mesquite,896.3855,21.2,64,5,2,21
+538,2017,Landsat,cottonwood willow,897.9,21.18,62,1,2,14
+531,2016,Landsat,tamarisk arrowweed mesquite,899.36,21.44,69,5,2,14
+469,2000,Landsat,tamarisk arrowweed mesquite,900.46,22.28,78,5,2,14
+63,2003,MODIS,tamarisk healthy,901,23.81,89,7,3,3
+56,2002,MODIS,tamarisk healthy,902,23.81,89,7,3,3
+475,2002,Landsat,tamarisk arrowweed mesquite,902.28,22.28,78,5,2,14
+686,2011,Landsat,mesquite bosque,902.6178,20.98,72,3,2,21
+1157,2007-2009,MODIS,tamarisk healthy,902.7,20.17,139,7,3,33
+73,2005,MODIS,tamarisk healthy,904,23.52,91,7,3,3
+581,2020,Landsat,cottonwood willow,905.2,22.28,78,1,2,14
+579,2019,Landsat,tamarisk arrowweed mesquite,905.93,21.44,69,5,2,14
+201,2020,Landsat,riparian shrub,906.75,23.2,132,4,2,4
+145,2009,Landsat,cottonwood willow,906.94,23.89,89,1,2,4
+695,2011,Landsat,tamarisk arrowweed mesquite,908.778,22.39,78,5,2,21
+787,2014,Landsat,tamarisk arrowweed mesquite,908.778,21.2,64,5,2,21
+582,2020,Landsat,cottonwood willow,908.85,21.17,63,1,2,14
+477,2003,Landsat,tamarisk arrowweed mesquite,909.58,21.44,69,5,2,14
+130,2006,Landsat,cottonwood willow,909.83,23.89,89,1,2,4
+925,2019,Landsat,tamarisk arrowweed mesquite,910.1351,21.44,69,5,2,21
+667,2010,Landsat,tamarisk arrowweed mesquite,910.8434,22.39,78,5,2,21
+53,2002,MODIS,tamarisk healthy,912,22.92,87,7,3,3
+704,2011,Landsat,tamarisk arrowweed mesquite,912.1622,21.2,64,5,2,21
+668,2010,Landsat,tamarisk arrowweed mesquite,916.2162,22.39,78,5,2,21
+788,2014,Landsat,tamarisk arrowweed mesquite,916.2162,21.2,64,5,2,21
+154,2010,Landsat,tamarisk healthy,917.3,22.23,93,7,2,4
+740,2012,MODIS,tamarisk arrowweed mesquite,919.6639,21.2,64,5,3,21
+696,2011,Landsat,tamarisk arrowweed mesquite,920.2703,22.39,78,5,2,21
+920,2019,Landsat,tamarisk arrowweed mesquite,921.1704,22.39,78,5,2,21
+108,2001,Landsat,tamarisk healthy,923.11,23.39,109,7,2,4
+171,2014,Landsat,riparian shrub,924.24,23.2,132,4,2,4
+779,2014,Landsat,tamarisk arrowweed mesquite,925.3012,22.39,78,5,2,21
+708,2011,MODIS,tamarisk arrowweed mesquite,925.7143,22.39,78,5,3,21
+768,2013,MODIS,tamarisk arrowweed mesquite,925.7143,21.2,64,5,3,21
+125,2005,Landsat,cottonwood willow,927.96,23.89,89,1,2,4
+721,2012,Landsat,tamarisk arrowweed mesquite,929.8429,21.2,64,5,2,21
+179,2015,Landsat,tamarisk biocontrol,931.37,22.23,93,6,2,4
+680,2010,MODIS,tamarisk arrowweed mesquite,931.7647,22.39,78,5,3,21
+712,2011,MODIS,tamarisk arrowweed mesquite,931.7647,21.2,64,5,3,21
+932,2019,MODIS,tamarisk arrowweed mesquite,933.7815,22.39,78,5,3,21
+281,2001,MODIS,riparian shrub,934,13.77,240,4,3,8
+554,2018,Landsat,cottonwood willow,934.4,21.18,62,1,2,14
+658,2010,Landsat,mesquite bosque,936.1257,20.98,72,3,2,21
+757,2013,Landsat,tamarisk arrowweed mesquite,936.4865,21.44,69,5,2,21
+278,2000,MODIS,riparian shrub,937,13.77,240,4,3,8
+591,2020,Landsat,cottonwood willow,938.05,21.11,63,1,2,14
+888,2018,Landsat,tamarisk arrowweed mesquite,940.3141,21.44,69,5,2,21
+780,2014,Landsat,tamarisk arrowweed mesquite,940.5405,22.39,78,5,2,21
+60,2003,MODIS,tamarisk healthy,941,22.92,87,7,3,3
+501,2011,Landsat,tamarisk arrowweed mesquite,942.43,21.44,69,5,2,14
+72,2005,MODIS,cottonwood willow,943,23.29,140,1,3,3
+65,2004,MODIS,cottonwood willow,945,23.29,140,1,3,3
+792,2014,MODIS,tamarisk arrowweed mesquite,945.8824,22.39,78,5,3,21
+101,2000,Landsat,riparian shrub,947.36,23.2,132,4,2,4
+796,2014,MODIS,tamarisk arrowweed mesquite,947.8992,21.2,64,5,3,21
+1476,2002,flux tower,cottonwood willow,950,13.09,230,1,1,47
+82,2006,MODIS,tamarisk healthy,951,22.83,116,7,3,3
+132,2006,Landsat,tamarisk healthy,952.14,22.45,112,7,2,4
+46,2001,MODIS,tamarisk healthy,953,22.92,87,7,3,3
+128,2005,Landsat,tamarisk healthy,954.06,23.39,109,7,2,4
+105,2001,Landsat,cottonwood willow,956.01,23.89,89,1,2,4
+523,2016,Landsat,cottonwood willow,956.3,21.31,63,1,2,14
+560,2018,Landsat,cottonwood willow,956.3,21.11,63,1,2,14
+189,2017,Landsat,tamarisk biocontrol,958.52,22.23,93,6,2,4
+170,2014,Landsat,cottonwood willow,958.79,23.89,89,1,2,4
+1038,2014-2019,Landsat,cottonwood willow,960,17.58,351,1,2,25
+45,2001,MODIS,tamarisk healthy,961,23.52,91,7,3,3
+68,2004,MODIS,tamarisk healthy,962,22.83,116,7,3,3
+107,2001,Landsat,tamarisk healthy,962.29,22.45,112,7,2,4
+75,2005,MODIS,tamarisk healthy,963,22.83,116,7,3,3
+32,2003,flux tower,cottonwood willow,966,17.65,344,1,1,2
+1377,2003,sap flux,cottonwood willow,966,17.44,357,1,4,38
+103,2000,Landsat,tamarisk healthy,966.71,23.39,109,7,2,4
+916,2019,Landsat,tamarisk arrowweed mesquite,967.5393,21.44,69,5,2,21
+49,2001,MODIS,tamarisk healthy,969,23.81,89,7,3,3
+117,2003,Landsat,tamarisk healthy,969.99,22.45,112,7,2,4
+1040,2014-2019,Landsat,cottonwood willow,970,17.29,394,1,2,25
+813,2015,Landsat,tamarisk arrowweed mesquite,970.7401,21.44,69,5,2,21
+541,2017,Landsat,cottonwood willow,970.9,21.09,63,1,2,14
+568,2019,Landsat,cottonwood willow,970.9,21.41,64,1,2,14
+841,2016,Landsat,tamarisk arrowweed mesquite,972.973,21.44,69,5,2,21
+282,2001,MODIS,riparian shrub,973,17.5,353,4,3,8
+940,2000,flux tower,cottonwood willow,980,13.09,230,1,1,22
+142,2008,Landsat,tamarisk healthy,980.38,22.45,112,7,2,4
+488,2006,Landsat,tamarisk arrowweed mesquite,980.39,21.44,69,5,2,14
+729,2012,Landsat,tamarisk arrowweed mesquite,981.0811,21.44,69,5,2,21
+547,2017,Landsat,tamarisk arrowweed mesquite,982.22,21.44,69,5,2,14
+471,2001,Landsat,tamarisk arrowweed mesquite,984.77,21.44,69,5,2,14
+661,2010,Landsat,tamarisk arrowweed mesquite,986.3874,22.39,78,5,2,21
+869,2017,Landsat,tamarisk arrowweed mesquite,987.1622,21.44,69,5,2,21
+149,2009,Landsat,tamarisk healthy,988.29,22.23,93,7,2,4
+528,2016,Landsat,cottonwood willow,989.15,21.11,63,1,2,14
+570,2019,Landsat,cottonwood willow,989.15,21.18,62,1,2,14
+701,2011,Landsat,tamarisk arrowweed mesquite,989.1892,21.44,69,5,2,21
+506,2012,Landsat,tamarisk arrowweed mesquite,991.34,21.44,69,5,2,14
+823,2015,MODIS,tamarisk arrowweed mesquite,992.2689,21.44,69,5,3,21
+689,2011,Landsat,tamarisk arrowweed mesquite,992.6702,22.39,78,5,2,21
+814,2015,Landsat,tamarisk arrowweed mesquite,993.2432,21.44,69,5,2,21
+898,2018,Landsat,tamarisk arrowweed mesquite,995.525,21.44,69,5,2,21
+468,2000,Landsat,tamarisk arrowweed mesquite,995.72,21.44,69,5,2,14
+172,2014,Landsat,tamarisk biocontrol,1000.37,22.45,112,6,2,4
+773,2014,Landsat,tamarisk arrowweed mesquite,1001.047,22.39,78,5,2,21
+777,2014,Landsat,tamarisk arrowweed mesquite,1001.047,21.2,64,5,2,21
+89,2007,MODIS,tamarisk healthy,1002,22.83,116,7,3,3
+675,2010,Landsat,tamarisk arrowweed mesquite,1003.787,21.2,64,5,2,21
+61,2003,MODIS,tamarisk healthy,1004,22.83,116,7,3,3
+38,2000,MODIS,tamarisk healthy,1005,23.52,91,7,3,3
+54,2002,MODIS,tamarisk healthy,1005,22.83,116,7,3,3
+748,2013,Landsat,tamarisk arrowweed mesquite,1005.236,21.44,69,5,2,21
+693,2011,Landsat,tamarisk arrowweed mesquite,1007.33,21.2,64,5,2,21
+525,2016,Landsat,cottonwood willow,1007.4,21.09,63,1,2,14
+573,2019,Landsat,cottonwood willow,1007.4,21.09,63,1,2,14
+702,2011,Landsat,tamarisk arrowweed mesquite,1007.917,21.44,69,5,2,21
+113,2002,Landsat,tamarisk healthy,1009.92,23.39,109,7,2,4
+1482,2003,flux tower,tamarisk healthy,1010,14.21,241,7,1,47
+96,2008,MODIS,tamarisk healthy,1016,22.83,116,7,3,3
+147,2009,Landsat,tamarisk healthy,1018.61,22.45,112,7,2,4
+47,2001,MODIS,tamarisk healthy,1019,22.83,116,7,3,3
+730,2012,Landsat,tamarisk arrowweed mesquite,1020.31,21.44,69,5,2,21
+758,2013,Landsat,tamarisk arrowweed mesquite,1020.31,21.44,69,5,2,21
+286,2002,MODIS,mesquite bosque,1024.14,17.5,353,3,3,8
+126,2005,Landsat,riparian shrub,1025.4,23.2,132,4,2,4
+537,2017,Landsat,cottonwood willow,1025.65,21.25,63,1,2,14
+676,2010,Landsat,tamarisk arrowweed mesquite,1025.676,21.2,64,5,2,21
+124,2004,Landsat,tamarisk healthy,1026.19,22.23,93,7,2,4
+485,2005,Landsat,tamarisk arrowweed mesquite,1026.38,21.44,69,5,2,14
+711,2011,MODIS,tamarisk arrowweed mesquite,1026.555,21.44,69,5,3,21
+1089,2012,Landsat,tamarisk biocontrol,1028,20.69,130,6,2,27
+907,2018,MODIS,tamarisk arrowweed mesquite,1028.571,21.44,69,5,3,21
+1468,2000,flux tower,cottonwood willow,1030,13.09,230,1,1,47
+785,2014,Landsat,tamarisk arrowweed mesquite,1032.702,21.44,69,5,2,21
+832,2016,Landsat,tamarisk arrowweed mesquite,1034.555,21.44,69,5,2,21
+40,2000,MODIS,tamarisk healthy,1036,22.83,116,7,3,3
+544,2017,Landsat,cottonwood willow,1036.6,21.11,63,1,2,14
+684,2010,MODIS,tamarisk arrowweed mesquite,1036.639,21.2,64,5,3,21
+615,2012,flux tower,tamarisk healthy,1040,15.45,258,7,1,16
+739,2012,MODIS,tamarisk arrowweed mesquite,1040.672,21.44,69,5,3,21
+842,2016,Landsat,tamarisk arrowweed mesquite,1040.964,21.44,69,5,2,21
+69,2004,MODIS,tamarisk healthy,1042,24.14,89,7,3,3
+474,2002,Landsat,tamarisk arrowweed mesquite,1042.44,21.44,69,5,2,14
+470,2000,Landsat,tamarisk arrowweed mesquite,1043.9,21.44,69,5,2,14
+860,2017,Landsat,tamarisk arrowweed mesquite,1045.026,21.44,69,5,2,21
+515,2015,Landsat,tamarisk arrowweed mesquite,1045.36,21.44,69,5,2,14
+767,2013,MODIS,tamarisk arrowweed mesquite,1046.723,21.44,69,5,3,21
+102,2000,Landsat,tamarisk healthy,1047.86,22.45,112,7,2,4
+39,2000,MODIS,tamarisk healthy,1048,22.92,87,7,3,3
+1359,2004,MODIS,tamarisk healthy,1049.81,21.2,64,7,3,37
+540,2017,Landsat,cottonwood willow,1051.2,21.26,63,1,2,14
+804,2015,Landsat,tamarisk arrowweed mesquite,1051.309,21.44,69,5,2,21
+174,2014,Landsat,tamarisk biocontrol,1052.28,22.23,93,6,2,4
+79,2006,MODIS,cottonwood willow,1053,23.29,140,1,3,3
+127,2005,Landsat,tamarisk healthy,1053.12,22.45,112,7,2,4
+58,2003,MODIS,cottonwood willow,1056,23.29,140,1,3,3
+786,2014,Landsat,tamarisk arrowweed mesquite,1056.081,21.44,69,5,2,21
+720,2012,Landsat,tamarisk arrowweed mesquite,1057.592,21.44,69,5,2,21
+134,2006,Landsat,tamarisk healthy,1058.09,22.23,93,7,2,4
+532,2017,Landsat,cottonwood willow,1058.5,21.31,63,1,2,14
+572,2019,Landsat,cottonwood willow,1058.5,21.26,63,1,2,14
+491,2007,Landsat,tamarisk arrowweed mesquite,1059.23,21.44,69,5,2,14
+500,2010,Landsat,tamarisk arrowweed mesquite,1059.96,21.44,69,5,2,14
+76,2005,MODIS,tamarisk healthy,1060,24.14,89,7,3,3
+795,2014,MODIS,tamarisk arrowweed mesquite,1060.84,21.44,69,5,3,21
+512,2014,Landsat,tamarisk arrowweed mesquite,1063.25,21.44,69,5,2,14
+673,2010,Landsat,tamarisk arrowweed mesquite,1063.683,21.44,69,5,2,21
+674,2010,Landsat,tamarisk arrowweed mesquite,1064.189,21.44,69,5,2,21
+497,2009,Landsat,tamarisk arrowweed mesquite,1064.34,21.44,69,5,2,14
+851,2016,MODIS,tamarisk arrowweed mesquite,1064.874,21.44,69,5,3,21
+870,2017,Landsat,tamarisk arrowweed mesquite,1067.814,21.44,69,5,2,21
+1472,2001,flux tower,cottonwood willow,1070,13.09,230,1,1,47
+1465,2003,flux tower,tamarisk healthy,1078.99,22.46,117,7,1,46
+692,2011,Landsat,tamarisk arrowweed mesquite,1080.628,21.44,69,5,2,21
+1079,2007,Landsat,tamarisk healthy,1082,20.69,130,7,2,27
+42,2000,MODIS,tamarisk healthy,1083,23.81,89,7,3,3
+119,2003,Landsat,tamarisk healthy,1084.52,22.23,93,7,2,4
+1467,2004,flux tower,tamarisk healthy,1085.09,22.46,117,7,1,46
+651,1999-2010,flux tower,cottonwood willow,1086.25,14.21,241,1,1,19
+683,2010,MODIS,tamarisk arrowweed mesquite,1087.059,21.44,69,5,3,21
+576,2019,Landsat,cottonwood willow,1087.7,21.11,63,1,2,14
+1357,2003,MODIS,tamarisk healthy,1088.31,21.2,64,7,3,37
+144,2008,Landsat,tamarisk healthy,1089.72,22.23,93,7,2,4
+879,2017,MODIS,tamarisk arrowweed mesquite,1095.126,21.44,69,5,3,21
+112,2002,Landsat,tamarisk healthy,1098.06,22.45,112,7,2,4
+948,2000-2006,MODIS,tamarisk healthy,1100,23.06,90,7,3,23
+111,2002,Landsat,riparian shrub,1101.25,23.2,132,4,2,4
+586,2020,Landsat,cottonwood willow,1102.3,21.18,62,1,2,14
+479,2003,Landsat,tamarisk arrowweed mesquite,1106.32,21.44,69,5,2,14
+942,2000,flux tower,tamarisk healthy,1110,14.21,241,7,1,22
+945,2000-2006,MODIS,tamarisk healthy,1110,23.07,90,7,3,23
+473,2001,Landsat,tamarisk arrowweed mesquite,1116.17,21.44,69,5,2,14
+1085,2010,Landsat,tamarisk healthy,1119,20.69,130,7,2,27
+654,2000-2007,flux tower,tamarisk healthy,1119.7,12.93,230,7,1,19
+55,2002,MODIS,tamarisk healthy,1120,24.14,89,7,3,3
+86,2007,MODIS,cottonwood willow,1120,23.29,140,1,3,3
+776,2014,Landsat,tamarisk arrowweed mesquite,1120.419,21.44,69,5,2,21
+503,2011,Landsat,tamarisk arrowweed mesquite,1121.65,21.44,69,5,2,14
+110,2002,Landsat,cottonwood willow,1122.35,23.89,89,1,2,4
+614,2011,flux tower,tamarisk healthy,1124,15.45,258,7,1,16
+926,2019,Landsat,tamarisk arrowweed mesquite,1127.711,21.44,69,5,2,21
+90,2007,MODIS,tamarisk healthy,1129,24.14,89,7,3,3
+665,2010,Landsat,tamarisk arrowweed mesquite,1132.984,21.2,64,5,2,21
+100,2000,Landsat,cottonwood willow,1134.15,23.89,89,1,2,4
+524,2016,Landsat,cottonwood willow,1138.8,21.26,63,1,2,14
+1083,2009,Landsat,tamarisk healthy,1140,20.69,130,7,2,27
+1485,2004,flux tower,cottonwood willow,1140,12.84,231,1,1,47
+1486,2004,flux tower,tamarisk healthy,1140,14.21,241,7,1,47
+62,2003,MODIS,tamarisk healthy,1141,24.14,89,7,3,3
+83,2006,MODIS,tamarisk healthy,1144,24.14,89,7,3,3
+283,2002,MODIS,cottonwood willow,1148.28,22.83,116,1,3,8
+1474,2001,flux tower,tamarisk healthy,1150,14.21,241,7,1,47
+109,2001,Landsat,tamarisk healthy,1150.08,22.23,93,7,2,4
+664,2010,Landsat,tamarisk arrowweed mesquite,1158.115,21.44,69,5,2,21
+509,2013,Landsat,tamarisk arrowweed mesquite,1158.51,21.44,69,5,2,14
+1087,2011,Landsat,tamarisk biocontrol,1159,20.69,130,6,2,27
+494,2008,Landsat,tamarisk arrowweed mesquite,1162.89,21.44,69,5,2,14
+935,2019,MODIS,tamarisk arrowweed mesquite,1167.731,21.44,69,5,3,21
+44,2001,MODIS,cottonwood willow,1172,23.29,140,1,3,3
+93,2008,MODIS,cottonwood willow,1173,23.29,140,1,3,3
+1356,2003,MODIS,riparian shrub,1173.86,21.77,69,4,3,37
+129,2005,Landsat,tamarisk healthy,1179.62,22.23,93,7,2,4
+1470,2000,flux tower,tamarisk healthy,1180,14.21,241,7,1,47
+1088,2011,Landsat,tamarisk biocontrol,1193,20.4,135,6,2,27
+1082,2008,Landsat,tamarisk healthy,1194,20.4,135,7,2,27
+51,2002,MODIS,cottonwood willow,1197,23.29,140,1,3,3
+584,2020,Landsat,cottonwood willow,1200.85,21.41,64,1,2,14
+592,2020,Landsat,cottonwood willow,1200.85,21.11,63,1,2,14
+613,2010,flux tower,tamarisk healthy,1209,15.45,258,7,1,16
+48,2001,MODIS,tamarisk healthy,1211,24.14,89,7,3,3
+476,2002,Landsat,tamarisk arrowweed mesquite,1219.47,21.44,69,5,2,14
+938,1999,flux tower,tamarisk healthy,1220,14.21,241,7,1,22
+1430,1999,flux tower,tamarisk healthy,1220,14.21,241,7,1,44
+114,2002,Landsat,tamarisk healthy,1225.5,22.23,93,7,2,4
+1080,2007,Landsat,tamarisk healthy,1229,20.4,135,7,2,27
+941,2000,flux tower,cottonwood willow,1230,13.22,233,1,1,22
+97,2008,MODIS,tamarisk healthy,1242,24.14,89,7,3,3
+1473,2001,flux tower,cottonwood willow,1250,12.84,231,1,1,47
+1481,2003,flux tower,cottonwood willow,1250,12.84,231,1,1,47
+1358,2004,MODIS,riparian shrub,1250.41,21.77,69,4,3,37
+1084,2009,Landsat,tamarisk healthy,1251,20.4,135,7,2,27
+322,2003,flux tower,cottonwood willow,1251.95,14.18,241,1,1,10
+1352,2001,MODIS,riparian shrub,1256.79,21.77,69,4,3,37
+1480,2003,flux tower,cottonwood willow,1260,13.09,230,1,1,47
+104,2000,Landsat,tamarisk healthy,1267.67,22.23,93,7,2,4
+1477,2002,flux tower,cottonwood willow,1270,12.84,231,1,1,47
+548,2018,Landsat,cottonwood willow,1270.2,21.31,63,1,2,14
+588,2020,Landsat,cottonwood willow,1292.1,21.26,63,1,2,14
+946,2000-2006,MODIS,tamarisk healthy,1300,23.23,90,7,3,23
+41,2000,MODIS,tamarisk healthy,1305,24.14,89,7,3,3
+1086,2010,Landsat,tamarisk healthy,1311,20.4,135,7,2,27
+589,2020,Landsat,cottonwood willow,1335.9,21.09,63,1,2,14
+1469,2000,flux tower,cottonwood willow,1340,12.84,231,1,1,47
+1353,2001,MODIS,tamarisk healthy,1347.55,21.2,64,7,3,37
+1350,2000,MODIS,riparian shrub,1358.87,21.77,69,4,3,37
+553,2018,Landsat,cottonwood willow,1387,21.25,63,1,2,14
+539,2017,Landsat,cottonwood willow,1394.3,21.31,63,1,2,14
+555,2018,Landsat,cottonwood willow,1394.3,21.31,63,1,2,14
+558,2018,Landsat,cottonwood willow,1394.3,21.11,63,1,2,14
+1351,2000,MODIS,tamarisk healthy,1409.15,21.2,64,7,3,37
+1039,2014-2019,Landsat,cottonwood willow,1414,17.45,358,1,2,25
+564,2019,Landsat,cottonwood willow,1427.15,21.31,63,1,2,14
+947,2000-2006,MODIS,tamarisk healthy,1430,23.22,90,7,3,23
+526,2016,Landsat,cottonwood willow,1445.4,21.11,63,1,2,14
+542,2017,Landsat,cottonwood willow,1445.4,21.11,63,1,2,14
+37,2000,MODIS,cottonwood willow,1447,23.29,140,1,3,3
+323,2003,flux tower,tamarisk healthy,1456.35,14.18,241,7,1,10
+580,2020,Landsat,cottonwood willow,1500.15,21.31,63,1,2,14
+571,2019,Landsat,cottonwood willow,1507.45,21.31,63,1,2,14
+574,2019,Landsat,cottonwood willow,1529.35,21.11,63,1,2,14
+587,2020,Landsat,cottonwood willow,1540.3,21.31,63,1,2,14
+590,2020,Landsat,cottonwood willow,1540.3,21.11,63,1,2,14
+569,2019,Landsat,cottonwood willow,1547.6,21.25,63,1,2,14
+551,2018,Landsat,cottonwood willow,1642.5,21.11,63,1,2,14
+585,2020,Landsat,cottonwood willow,1689.95,21.25,63,1,2,14
+535,2017,Landsat,cottonwood willow,1693.6,21.11,63,1,2,14
+519,2016,Landsat,cottonwood willow,1781.2,21.11,63,1,2,14
+567,2019,Landsat,cottonwood willow,1781.2,21.11,63,1,2,14
+583,2020,Landsat,cottonwood willow,1803.1,21.11,63,1,2,14

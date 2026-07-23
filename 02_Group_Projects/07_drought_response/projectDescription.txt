@@ -1,1 +1,0 @@
-Hierarchical normal model for multivariate response; tree-level response data (for aspen) on mean growth rate, resistance to 2002 drought, resistance to 2012 drought. Mean vector varies by population, which is modeled hierarchically; involve prior for a 3x3 precision matrix
