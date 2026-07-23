@@ -3,7 +3,7 @@
 rm(list=ls())
 setwd(XXX)
 library(rjags)
-library(ggplot2)
+library(tidyverse)
 library(MCMCvis)
 
 #read in data
@@ -20,14 +20,14 @@ datalist = list(y= snow$Number_invasives, x= snow$Footprint, n=n)
 #prior B is gamma(10,10)
 #Prior C is gamma(65.8,32.5)
 
-# Code the Bayesian model using prior A ------------------------------------------------------------------------------------------
+# Code the Bayesian model using prior A --------------------------------------
 text.modA <- "
 model{
   for(i in 1:n){
     #Poisson likelihood for number of invasive plants counted for
     #snowfence i, which has footprint area x
     y[i] ~ dpois(mu[i])
-    mu[i] <- x[i]*theta
+    mu[i] = x[i]*theta
   }
   # Prior A: relatively non-informative prior for theta:
   theta ~ dgamma(0.001,0.001)
@@ -35,8 +35,9 @@ model{
 "
 modA = textConnection(text.modA)
 
-n.adapt=500
-jm_modA<-jags.model(modA, n.chains=3, data=datalist, n.adapt = n.adapt)
+
+# Initialize jags model using jags.model for 3 chains:
+jm_modA<-jags.model(modA, n.chains=3, data=datalist)
 # update jags model with coda.samples for 5000 iterations
 n.iter=5000
 coda_modA = coda.samples(jm_modA,variable.names=c("theta"),
@@ -46,7 +47,7 @@ coda_modA = coda.samples(jm_modA,variable.names=c("theta"),
 MCMCtrace(coda_modA,iter=n.iter,file="mcmc_plots.pdf")
 
 # Compute posterior statistics, check for convergence and effective sample size.
-# Apply window function and start to remove burn-in:
+# Apply window function and start to remove potential burn-in:
 outA = MCMCsummary(window(coda_modA,start=start(coda_modA)+100))
 
 
@@ -59,98 +60,61 @@ model{
     #Poisson likelihood for number of invasive plants counted for
     #snowfence i, which has footprint area x
     y[i] ~ dpois(mu[i])
-    mu[i] <- x[i]*theta
+    mu[i] = x[i]*theta
   }
   # Prior A: relatively non-informative prior for theta:
   theta ~ dgamma(a,b)
 }
 "
-# Run model with prior B; --------------------------------------------------------------------------------------------------------
-#first update data to include values for hyperparametes
+# Run model with prior B; -----------------------------------------------------
+#first update data to include values for hyperparameters
 datalist$a = 10
 datalist$b = 10
+# Redefine model object:
 modAll = textConnection(text.mod)
-jm_modB<-jags.model(modAll,n.chains=3, data=datalist, n.adapt = n.adapt)
+# Initialize model with prior B:
+jm_modB= jags.model(modAll,n.chains=3, data=datalist)
+# Update model with coda.samples:
 coda_modB = coda.samples(jm_modB,variable.names=c("theta"),
                          n.iter=n.iter)
 # Compute posterior statistics, check for convergence and effective sample size.
-# Apply window function and start to remove burn-in:
+# Apply window function and start to remove potential burn-in:
 outB = MCMCsummary(window(coda_modB,start=start(coda_modB)+100))
 
-
-sum_tab_all <-rbind(outA, outB)
+# combine posterior stats for models A and B:
+sum_tab_all = rbind(outA, outB)
 row.names(sum_tab_all)<-c("priorA", "priorB")
 
-# Run model with prior C; --------------------------------------------------------------------------------------------------------
-# Prior C is gamma(65.8,32.5)
+# Run model with prior C; ------------------------------------------------------
+# Update dat:
 datalist$a = 65.8
 datalist$b = 32.5
+# Refine model:
 modAll = textConnection(text.mod)
-jm_modC <-jags.model(modAll, n.chains=3, data=datalist, n.adapt = n.adapt)
+# Initialize model based on prior C:
+jm_modC = jags.model(modAll, n.chains=3, data=datalist)
+# Update model with coda.samples:
 coda_modC = coda.samples(jm_modC,variable.names=c("theta"),
                          n.iter=n.iter)
 # Compute posterior statistics, check for convergence and effective sample size.
-# Apply window function and start to remove burn-in:
+# Apply window function and start to remove potential burn-in:
 outC = MCMCsummary(window(coda_modC,start=start(coda_modC)+100))
 
-
-sum_tab_all <-rbind(outA, outB, outC)
-row.names(sum_tab_all)<-c("priorA", "priorB", "priorC")
-
+# combine posterior stats for all 3 models:
+sum_tab_all = rbind(outA, outB, outC)
+row.names(sum_tab_all) = c("priorA", "priorB", "priorC")
 sum_tab_all= round(sum_tab_all, 4)
-
-# simulate values of theta from each prior using JAGS: --------------------------------------------------------------------------------------------------------
-# Code simple model for simulating from priors:
-text.priors  = "
-model{
-  # Simple code for simulating from different gamma priors:
-  theta_a ~ dgamma(0.001, 0.001)
-  theta_b ~ dgamma(10,10)
-  theta_c ~ dgamma(65.8,32.5)
-}
-"
-modPriors = textConnection(text.priors)
-jm_priors<-jags.model(modPriors, n.chains=3, n.adapt = n.adapt)
-coda_priors = coda.samples(jm_priors,variable.names=c("theta_a", "theta_b", "theta_c"),
-                           n.iter=n.iter)
-#Prior summary statistics
-priors_out = MCMCsummary(window(coda_priors,start=start(coda_priors)+100))
 
 
 # Looking at posterior density distribution --------------------------------------------------------------------------------------------------------
-#alternative code which overlays the 
-#densities from each plot (need to install ggplot2 package)
-#ggplot2 requries an input of a dataframe
-all_p<-cbind.data.frame(coda_modA[[1]][,1],coda_modB[[1]][,1], coda_modC[[1]][,1]) 
-names(all_p)<-c("With prior A", "With prior B", "With prior C")
+#overlays the densities from each plot
+all_p = cbind.data.frame(coda_modA[[1]][,1],coda_modB[[1]][,1], coda_modC[[1]][,1]) 
+names(all_p) = c("With prior A", "With prior B", "With prior C")
 library(reshape2)
-x<-melt(all_p)
+x= melt(all_p)
 str(x)
-ggplot(x,aes(x=value, fill=variable)) + geom_density(alpha=0.25)
+ggplot(x,aes(x=value, fill=variable)) + geom_density(alpha=0.25) + theme_classic()
 
 
-# Problem 9
-# With prior A
-all_A<-cbind.data.frame(coda_modA[[1]][,1],coda_priors[[1]][,1]) 
-names(all_A)<-c("Posterior","Prior A")
-x_A<-melt(all_A)
-str(x_A)
-ggplot(x_A, aes(x = value, fill = variable)) + 
-  geom_histogram(alpha = 0.5, position = "identity", binwidth = 0.1) + 
-  coord_cartesian(xlim = c(0, 4), ylim = c(0, 100))
-
-#With prior B
-all_B<-cbind.data.frame(coda_modB[[1]][,1],coda_priors[[1]][,2]) 
-names(all_B)<-c("Posterior", "Prior B")
-x_B<-melt(all_B)
-str(x_B)
-ggplot(x_B,aes(x=value, fill=variable)) + geom_density(alpha=0.25)+ xlim(0,4)
-
-#With prior C
-all_C<-cbind.data.frame(coda_modC[[1]][,1],coda_priors[[1]][,3]) 
-names(all_C)<-c("Posterior","Prior C")
-x_C<-melt(all_C)
-str(x_C)
-ggplot(x_C,aes(x=value, fill=variable)) + geom_density(alpha=0.25)+ xlim(0,4)
 
 
